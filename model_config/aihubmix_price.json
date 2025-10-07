@@ -1,0 +1,18 @@
+{
+
+    "kimi-k2-0711-preview": {
+        "prompt_tokens": 0.00062,
+        "completion_tokens": 0.00248
+    },
+    "moonshotai/kimi-k2-instruct": {
+        "prompt_tokens": 0.00062,
+        "completion_tokens": 0.00248
+    },
+    "DeepSeek-R1": {
+        "prompt_tokens": 0.000546,
+        "completion_tokens": 0.002184
+    },
+    "Kimi-K2": {
+        "prompt_tokens": 0.00054,
+        "completion_tokens": 0.00216
+}

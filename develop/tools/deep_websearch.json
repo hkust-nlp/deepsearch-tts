@@ -1,0 +1,24 @@
+{
+    "type": "function",
+    "function": {
+        "name": "deep_websearch",
+        "description": "A web explorer that analyzes the content of searched web pages to extract factual and relevant information based on a given search query and search intent.",
+        "parameters": {
+            "type": "object",
+            "required": [
+                "search_query",
+                "search_intent"
+            ],
+            "properties": {
+                "search_query": {
+                    "type": "string",
+                    "description": "The search query to be used for the web search. This search query will be directly used by the web explorer to search on common search engines, so make sure it follows the standard format."
+                },
+                "search_intent": {
+                    "type": "string",
+                    "description": "The search intent to be used for the web search."
+                }
+            }
+        }
+    }
+}

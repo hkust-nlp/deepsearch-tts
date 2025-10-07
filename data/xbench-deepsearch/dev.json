@@ -1,0 +1,902 @@
+[
+    {
+        "id": "1",
+        "prompt": "截至2024年12月31日，2024年上海黄金交易所Au(T+D)合约的“最高价”与“最低价”之差约为多少元/克？",
+        "answer": "161.27元",
+        "reference_steps": "c2tuq+byqMXlxerZsteZu+nDs8/Bye/wv9jwz/3KODE1IlN7fA8nOzZnPUcxazs7TWEtImY9L1RYTBAbDgYYVC46JxtEGQsJFzwGSDNvV15zjc/MhNWUhPrEip6a0OmXivSH35Guh6+bxMCEi/uPht6cjoy937S70KW+p//opdfoqf3pz/jbseeitvjJt8zYxtHgvurwxtb1ttnevZzJtpzQqebCoZzdp9jJyOHwqPH0ZRwQUVWM4eNJEaXV2HQRm+LkjOP0y9vAjd/xg/bXhfSljdnphYqr0/iyjN+60q2pip2NydmLQlQdUFLT4aEBCNqypwoHrfnCpMr0pNXwwsTdst6Fu+ftt8zZz/LJsfH9yO/xtP3Kup38YhK09Ouv0qiy0OiyreGh8MWryJ0RUYXWyxcBQyI5pvi7l97tiffZyf7rjOnDgOnEjNS2hMruhJ2Z0OqHi+CO1JW/io6Oydmxht6HhPq5joy4MwscFt2L/aLa6zg0NTokTqHR3KSZ5S03NikoKnprdqPbs6Ts0CA5MUUtvJzcqt7spo/2o9Hqxcf+rsnSBFsIN0oqSJD5va/q0KCY+IrE4ozUoaHc05j91YXK6I2/1Ifh/tektYyG+4eIh8+0/9a7uo6N6lAeVUgCQdW0uhfXs7LZ/syr0cSvwc6tvMSl6c/E6P+t1dGhqNmq6s1mF3d+YHZht6XCfMXVx671x8PUx1JhDm+m4uip67nF1M+L4c6WnN1jenMOS1JFjOP7DXBSU15jVkFPQ1kMU0tTVRHXie3I5uAc1ai/jY+6",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截至2024年12月31日，2024年上海黄金交易所Au(T+D)合约的“最高价”与“最低价”之差约为多少元/克？",
+        "Question": "截至2024年12月31日，2024年上海黄金交易所Au(T+D)合约的“最高价”与“最低价”之差约为多少元/克？"
+    },
+    {
+        "id": "2",
+        "prompt": "请计算intel gen9 gpu, 1GHZ, 24EU的单精度算力是多少FLOP",
+        "answer": "384GFLOPs",
+        "reference_steps": "c2tupsHApOzLxtTds/WCtPXesufdxejHNCw8R6b92ar93sbRz8fk7ignOkU4ZT8xTnZuKzk7ZV1QBgKB3elzEml1ocqXne3zBw0cSChFAhU9XEEVEx0aAxcCClhMUAZZFhFWEF5EB1Dcke1ZFhJdEVweTkdGThZbWE1TLmstLWcuLjw/RSo1eyVBPmcrMDohTCE1eSAqVCQiPiQtfVUyfEU+YyUmLVU5IDYgU2A6JCxjJkFNExQaBF8YUiQ9IDBFGxYQHAZFQiJIDB4nAA1fExpVAQASEV5KGAJfAhNbWU5HT1RWQ1gcFFdJUksJVQMFCAgcRl1QSHZgY63R6bXnjHV4veCVvPTDYGJ8x+Xlvs/Qz/3cuMv2t57WNVBjfmGu4Lexz8OwmPV9dH1uA2JvM04NGBEVRajpxXYUPTcWThtIBXZFHVAALCw2TlwaJDU0SxFAFU1gNi8TGw11JncaJ1UfQlUVVkYbQQF2cWISCxkFenEJBQQCESE=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "请计算intel gen9 gpu, 1GHZ, 24EU的单精度算力是多少FLOP",
+        "Question": "请计算intel gen9 gpu, 1GHZ, 24EU的单精度算力是多少FLOP"
+    },
+    {
+        "id": "3",
+        "prompt": "《聊斋志异》是中国清朝小说家蒲松龄创作的文言短篇小说集，最早的抄本在清代康熙年间已有流传，全书共有短篇小说四百余篇。在《聊斋志异》卷十中，有一个故事名为《绿衣女》。在这个故事中，书生于璟共讲了几句话？",
+        "answer": "4",
+        "reference_steps": "c2tupdjRpubpw8TLvMCqtd7EsPPTxfLHtcXZKnN+cKPe98ju8cXp+qfA8MXc9b3Zl6rDzWljZc2g6YbV3prYg6Lw+qeg84fgxoX+qqLt85Xc74T31YCV84P35TsLG0XL1uzbl6XR24XUvefZxcXO4uzW2o/ZmJvXk4rVws6rxuCr19WtqNKk28vF1v6n+t2itslPYmtyxsjutc3xt6XptbbXqPnkqKnUo8Tdws/SpOf8rYG9geHzhM/bxfvart6kkM3Ii+zNwvjpgPXiVFeX7M0wV0tBhaG+3cKOUlXWv4jcza7Ut+XZzcvJ2+87Vx4R3LC03oeec3OrzO2p+f+us+6l7trGy+et1dCgmeiiwtq2ms+3wtqj0r2p/JS31sVDeQ50ouPLyOHvrsnSoZeGhPXxhcj3x9XKq8S9kMzXhsz1xevIgP/2it3+hu2LVoDuxw==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "《聊斋志异》是中国清朝小说家蒲松龄创作的文言短篇小说集，最早的抄本在清代康熙年间已有流传，全书共有短篇小说四百余篇。在《聊斋志异》卷十中，有一个故事名为《绿衣女》。在这个故事中，书生于璟共讲了几句话？",
+        "Question": "《聊斋志异》是中国清朝小说家蒲松龄创作的文言短篇小说集，最早的抄本在清代康熙年间已有流传，全书共有短篇小说四百余篇。在《聊斋志异》卷十中，有一个故事名为《绿衣女》。在这个故事中，书生于璟共讲了几句话？"
+    },
+    {
+        "id": "4",
+        "prompt": "B站Up主HOPICO对方大同的专访视频获得了第多少期的每周必看？",
+        "answer": "292",
+        "reference_steps": "c2tuq+byqMXlYi0tPSNJPyGo6N2ji9dPZGtyxtHMt/HjGm8RGmMfRnJnbsjr3r3Rhav25q30/8qY2IjP1HhNDme97sLJ2vOD/v+PmeaA4MO68c+azOXY4vmH9IjdkcLI8+/RsLA+Vx0TyO2Ii+Ogh+OCiKSf0Ze/1Lmqpv3dq+byo9LWxf33vP67ts3qvevCyezUv+TnydzyWnNvcsb03Mj3xKnuyMn21LH1labT7qbyycu8y4TZx5bBqq/y26K4xoXB1IHosaPJyUJqV4fu/I6V7YDwytSHsIKx6IGzrQ==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "B站Up主HOPICO对方大同的专访视频获得了第多少期的每周必看？",
+        "Question": "B站Up主HOPICO对方大同的专访视频获得了第多少期的每周必看？"
+    },
+    {
+        "id": "5",
+        "prompt": "经典电影《肖申克的救赎》中，有一句非常经典的台词，说的是鸟和牢笼的关系，这句话的后半句描述了一样东西，做成10个符合GB/T 11881-2006物品，至少需要多少只拥有这个东西的可饲养动物？",
+        "answer": "12",
+        "reference_steps": "c2tupdjRpubpx/nQveCVvPTDs8X6xcb1vvrLxc71uOrcuo/1tLrUqtnmbsbIzLzuu6b206/W6siTy4TA+5bBraPp06yC04fg3Yb0haPJ2ZX+9Yj174+g5ord7tSjlYGV2Yads8mPztSpqYee7YKV4oG45tePhN6drdC1/6zZ6aDNwbXWoKzG/qa04q/V0anBqab736rurKfZ0KH698bO3Mjv/KbTysTs2bDxn6nW467w+MiP+GtcT1KfsNuy/eZnOkIxTlJZFXxUSEJjVVed3+Tf59OF2pzeuurF3NPXiqvT3I7VgvrW8uXI6tDV3KzXmb/Xsb/S+v+o7Mep+fisnvmn+9rHw8umycyshs90YKPymabu7aPuyc/93xFgqPnjqZ7po/fPx9/NpdXOrYihUldeQZXwp6Dr9KKP42hWQEONlfyC8di0/+WV98De2OuG3Izemv7K8+DUqqnR7ZzaiNPU593I6M7W6JnVgYLbj7w8dmtupefCpN3hyf3EvPuLt/DFsMPuxtLMZ3G1qca37vin/buk3I+09+Su2oiy2P2xqPmq8dWp+5PGzPqJ8fFzFWl1eHIQV1NRTl5ZHGpRVp/v6Yf744yBx4z94tmetFQfQ4a8msSN5w==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "经典电影《肖申克的救赎》中，有一句非常经典的台词，说的是鸟和牢笼的关系，这句话的后半句描述了一样东西，做成10个符合GB/T 11881-2006物品，至少需要多少只拥有这个东西的可饲养动物？",
+        "Question": "经典电影《肖申克的救赎》中，有一句非常经典的台词，说的是鸟和牢笼的关系，这句话的后半句描述了一样东西，做成10个符合GB/T 11881-2006物品，至少需要多少只拥有这个东西的可饲养动物？"
+    },
+    {
+        "id": "6",
+        "prompt": "在首次提到“两面包夹芝士”的视频中，up主最后提到的干员是什么职业",
+        "answer": "重装",
+        "reference_steps": "c2tupdjRpubpwsTdsPmEutXtsMDBxer8vs/PxeL7ssXcWBJvc8j+86je4EKz7sG8n9Sryew7NcqY2IPu/ZbBoKLa46GE34f25orZkabl+JTr3ojT1mIJTEWH177Qku3FxOXakrzX4qPVte/X9cPL9N/Z6a/SuakBBgkGp9jZps3lp+DqxP7Hu/2httjLsfHJxPbFs+vIyOfRt+vgt4X8u6f6qfb4oZzYo9DFx9PRqtXDoZSmjN3va0ZXAK/yz62C6Q4MHRePgehXFZ/v6Yn10I6g9YP21NSwjoqR71XWuKsGUtSUv46N7oOD+IKM7NKxpdyKktCr4KDCxq3p+LrBvaHi/6OgzkJ6e2ysh8is9NS0vOq14PunzqCkw6609MGswYW86sW2oNOoxNio9ZbI3P2L9+6fjOWz6urI4tiH7v5iG2pFg9PTgtXQhcuUiv/bjY200Mu3h96+2Ky4houpwt2ri+GgisW0TNW3it66rtG2xw==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在首次提到“两面包夹芝士”的视频中，up主最后提到的干员是什么职业",
+        "Question": "在首次提到“两面包夹芝士”的视频中，up主最后提到的干员是什么职业"
+    },
+    {
+        "id": "7",
+        "prompt": "围棋棋手战鹰，2024年正式比赛的战绩是几胜几负。",
+        "answer": "0胜2负",
+        "reference_steps": "c2tupdjRpubpwsTdssm4uvH/dX50Enpls97mxuLbturVupXasaDNRnNnbsb29r/Epqf71630zsmb8Ifw/XhLEHVhrP2UTYT55lJby9PAjcTMgdv8h9C7hPrOhKe/P1cdUVfWiZkNhK+7H1DX9cPF1vnV277YoLDXibrf4co=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "围棋棋手战鹰，2024年正式比赛的战绩是几胜几负。",
+        "Question": "围棋棋手战鹰，2024年正式比赛的战绩是几胜几负。"
+    },
+    {
+        "id": "8",
+        "prompt": "截止到2024年12月31日，中国在2012伦敦奥运会的金银铜牌数量。",
+        "answer": "金牌39枚，银牌31枚，铜牌22枚",
+        "reference_steps": "c2tupdjRpubpwsTdZnERYa324aj4hqjQ8KD3hanvwKH9yMXkxcfZwKfv0sLU2FJmDm+q8NOo5q7H18OL5sichN2x8e7G7dKD482Ol9SK2fy2wfuVxOXd2faH/K3XienJ29jVhazczYfVnvTX+skeWo+28AIG0KuEBAvf0dmh/8Sp/NSuu+Sl7PvFw8yo8sGhpfqg8863qcO288Wn56uo07K47eSm8qyx2fCwnOmo2e+r4IvI3PGK3eicjt+y9NXG7dKD482Mlf5WXJnU9FJDivuMUFeI8a0yBksNhuuX1ruZhou+yPG9hPOdhOufh4qh3Lej04G1pd/Kpd/7qMX/z/jNvcGptcPmvfvZx+j+ZHVgFKTp5KPd0sj+wsfKyKbk2sb1zQ==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截止到2024年12月31日，中国在2012伦敦奥运会的金银铜牌数量。",
+        "Question": "截止到2024年12月31日，中国在2012伦敦奥运会的金银铜牌数量。"
+    },
+    {
+        "id": "9",
+        "prompt": "截至2024年12月31日，在北京地铁系统中，哪两个独立的地铁站之间的轨道距离是第二近的。",
+        "answer": "地铁16号线，玉渊潭东门-木樨地站",
+        "reference_steps": "c2tupdjRpubpwsTdsc23t/LjsND0yd3EsNnSx979t+7YtaL4u5fNq+fyrKDJT2p6AKn/y6/O/suw54bf2pTskKHY56Cf2YTkwYbWuqHi35b+xobTzY+X9oPA6jsLG0XK2OzUpJzT+43Wl8fW+9jKxffS4bHWgozXqYPR2/up5NmuwdOurNOl7u3Fz/imxs2hjtajwPy1ndC3+9ymyKSi07C359ig2ZS88sWwn+6ozeatxb/I3PqGwP6Qisu95sU=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截至2024年12月31日，在北京地铁系统中，哪两个独立的地铁站之间的轨道距离是第二近的。",
+        "Question": "截至2024年12月31日，在北京地铁系统中，哪两个独立的地铁站之间的轨道距离是第二近的。"
+    },
+    {
+        "id": "10",
+        "prompt": "在北京有一个点N，与文天祥祠堂、于谦祠堂、袁崇焕祠堂，三地距离相等，请问这个点与三个祠堂的距离是多少？",
+        "answer": "6～7km",
+        "reference_steps": "c2tupdjRpubpwsTdveq4tvb4sND0xdX7tMXPKnN+cK3v7cnW/cLQ0Kji1sXq8r3IkKrV8qvO2MGc74f+/ZXNgqHDzqGE0YXAy4TNjaHF55/v6YbTzY2U+IHc79aFm28eTUPVoLHT1pHXl+/Z0sDKx8be3bzWmJbXmKPS/8ip/uZHdXxrxtTds/WCu+rOsPjDx8rQseDyxeHSv/nNtYHvto7KqPzEqZ36T216AKv2xa3278mFw4TO45rEm6Lr56GlyYXf0YzUoaL9ypTr5YXKyY2exYL75tiqqI2K8YeLucWT8NaOj46N7oGv2yjZx7HZjqXVkILT7Maq+OSr7sajnsep693P78Sm1dasn8mj58e2mOW47vykzKKk7KO37e+s4Lqw//yxr8apzvCq+KPH3s+B3f6cvO+z1dnJ4NGA68+NtumB3ey26PaW3c8wVEtBi7Gi3dqqhda42JqphZKdyM+ritGwhcCKhoqX3YCIABcBKSg=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在北京有一个点N，与文天祥祠堂、于谦祠堂、袁崇焕祠堂，三地距离相等，请问这个点与三个祠堂的距离是多少？",
+        "Question": "在北京有一个点N，与文天祥祠堂、于谦祠堂、袁崇焕祠堂，三地距离相等，请问这个点与三个祠堂的距离是多少？"
+    },
+    {
+        "id": "11",
+        "prompt": "将漠河历史最高温度，乘以10，距离这个温度值最近的金属单质熔点的金属是什么。",
+        "answer": "锌",
+        "reference_steps": "c2tupdjRpubpwsTdsv2Atfr8sMLCxcH3sNnSyerItvXVtJjosaDNo/3Fq57DoNDkE3Zgf6z04yQSTUFdWFxK49BkeXkTQVGA1MViHmpFjPDJjd71hPGEh9/HhaiG0sK8gOOy15aAh6yJyviPhcG8hMWxhoST0L+j04iopcPapMr0ru7Hx9THvO+at/DFsPbQyOHgsM/YxsjQttnIu6fQtpHOpcL0qLDIouz2xPfOpcjDqpKsi+/ZhP3vxdfRoMOxndP7ieX8ysbcgPDvhuHwaVwUQoHZ7AIBBo2S+IuSvMub9tuNro6N7oGx6YOGz9Wxhd6uttyGzaLUx6HK0Lf6vqfB1g==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "将漠河历史最高温度，乘以10，距离这个温度值最近的金属单质熔点的金属是什么。",
+        "Question": "将漠河历史最高温度，乘以10，距离这个温度值最近的金属单质熔点的金属是什么。"
+    },
+    {
+        "id": "12",
+        "prompt": "从1949年到2009年，中国城镇人口数量年均增长百分之多少",
+        "answer": "4.04%",
+        "reference_steps": "c2tuqsjXqe3MxtTds/WCtvTas9/Kz/LJsObSx/XytP3st7v8tJvPpO/oq5ngrNHgw8/MRntgZceg6oflyJfliHVleHTFwdaB1+iNvcqC//S03v6azcnf29GI64XXienF3PjWtYjQ2InWosLWzeHO4uQ7Uh4R35uy0Y2Up83+cnF5eLfylKHe2qi11Kz176nLg3tyYHC2mMa06v+u7qxzYxBpqfj9eBRhdGqwmMiq9vOtxawqV09OSURLEX9jZnEXTldMMEtZAnJVTF1iWFFcU1wKVlY=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "从1949年到2009年，中国城镇人口数量年均增长百分之多少",
+        "Question": "从1949年到2009年，中国城镇人口数量年均增长百分之多少"
+    },
+    {
+        "id": "13",
+        "prompt": "黑龙江、吉林、辽宁，共有多少个地市级行政单位与外国接壤？",
+        "answer": "12",
+        "reference_steps": "c2tupdjRpubpyPr8se+hu+nDs9j7xcL/s83Az/3ct+Tvt47btq/6qt3AqpjtoeDIxPfAqtXTrJy8he/LhNHdw8fXQ3YOWIT18oTcj6H17JbN8onT746u3YDt2NSwp4qR74SSnsia+Na8h4et64OW1I6P2NWGp9uyt9C22KDC1a31w7HLoaPY6aS/3a3316j8rqjZy6zgvKLQ0aH+1sf8xMbG46fH68X34VJnDm+o3NWp8YzJ2PCH3+ufkdi96MjG7N2A4tmNpdaK2fy07MCW29Hc0/qE2rPbteTE28LblZLR2rHQreDV39XL/s7X95/UgbrRtrjf++Gr8d+o+dCooMWo79DG4fuq7c6noM+g2cm7mOy14fSk6qKi06G08Muv1oWx/dq3oM6r6O6rwJrFzeiL09+cvPewxf7PxO5ditvCyNjVgPzpgdn8h9e+hdj2hKeX0+uIhsCX0622aAcdDVkaUU0cX1cD",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "黑龙江、吉林、辽宁，共有多少个地市级行政单位与外国接壤？",
+        "Question": "黑龙江、吉林、辽宁，共有多少个地市级行政单位与外国接壤？"
+    },
+    {
+        "id": "14",
+        "prompt": "B站up主道可道Science 2022年第二、三、四个季度发布的所有视频封面中，总共有多少个人物（重复的人物只算一次），这些人总共拿了多少个诺贝尔奖",
+        "answer": "2",
+        "reference_steps": "c6bOwq/h7bbxrKfB1aWY2qvP1Knfu6r9/KD/g6Tq9qPZ/cbN1BR9fXOv0qhed7vUoanH36zyxUzHyPiB3f6fqfmwwfTJ+fGA4cyBrNc2Bhk2CwIXhPK+ht3ai5CNP1bO4+Lbn4hBEteLllMBUFTI29IFTAED36S60oG2p8D/psfcpOrIxP7HbaWY+aDo06XmsURxtcXTyNjtt8H3t4X8toTKqPnjqpruotH9xdTwq8DJqpKsh9zoh+rWxcLjrOq+ndLUitvMyfzPgcjegPH+hPK+ht/baATbteTFzOXWuIbR5YnbkvjV2sLJ2szV24rWsJHXvr/Tyu6o2+eqyeOuu+Snwu7Fzu6qx8Civeaj2uq3jsC/7M2kz6el65q09s2t9Jqy2dixmPem68ip36rH5saJ6PWWnM5ff6eg+Yvl9IvXqqzV0pb+6Yfi/4+OwIrd7tawhIC2w4Wln8ipxNahoYesyoChzYOf4NW5v926nd+9/aH0xaz1wbbziqzu7qmUzq3/wanhtkRytcXTxvDStdfNvZzNt5rcqPvzqKDvoN3lxsTxqPPIoZaEh9nEid3DyPPIrPS0ncfz",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "B站up主道可道Science 2022年第二、三、四个季度发布的所有视频封面中，总共有多少个人物（重复的人物只算一次），这些人总共拿了多少个诺贝尔奖",
+        "Question": "B站up主道可道Science 2022年第二、三、四个季度发布的所有视频封面中，总共有多少个人物（重复的人物只算一次），这些人总共拿了多少个诺贝尔奖"
+    },
+    {
+        "id": "15",
+        "prompt": "阿里巴巴成立时，18位创始团队成员中，姓马、姓蔡、姓张的创始人的平均年龄，保留一位小数",
+        "answer": "34.3",
+        "reference_steps": "c2uo09Sq9fCknN6ozP7J1MSq4vihl/qj3tW1i8q2x/NwasT83sXY16TuxcTu/7fouic6ODk9fwEPFBYZTxEXUDd7KioPHg0GGxBHGHZVUUFrSwkGDgQwUEtBhLur0Oq7heuj14a/h4qHydqMjdq3U18IWNWIjTIBGBnQyNarzN58ebb2raHJz6SH2Kz176P4uqfs+qHosaLQ0aDsy8X898X+y6LJz8nT1L3vmqnT4arOxMudzon735H5oa/B6KGU/4baz4DorKHZxZfC/oLy4o2q1oPS0dirmIat4oSoq8mM4tqQs4Kx44CI3oCn5tiypduyt9CM+azb/K/P3bHLoa3e/ae13KvP1KT0gqr9wKLXrKLQ0aPJ5sfO2cPQzanbxcje9rvUoabJ3azk3sud0oLu4JfoiKHX76y5wYHl74vYj6Dd85Tr+YLy4o2Hz4Le3te1gm8ZTUPWtZvQ2p7WivLYy8rO4ufUxqPZrZnRtrjT5dar/+iq29aknMik3MfF2+OpycWtieKh7NSxoMC4xOSk5qel7IGzzMCs8oCz1MNeFWFuqtnSopqChc7hhcr5xPrYr8ywnfP9ifnsyMPfguTMgNjGh9OHjdnphaiG0N+LhPqN14qljY+6wt2ri8+Bhtygjoy5CAEEAtaKzi06Nzg+e31kQiUoPyQOMSkmMTlqQyEoeSwmRSx/dQB4d2F4dmETaQR9a2IVYGFlD3l8eXuh+afD4+CLzOucneOw58PPxOpUV1RcwvjshvDSjObjhtOAhPjMjY2wBFwaU4yPuc6049aOgImk3ImR6lcIVgHehbHRtrje1uSr98+p/vOknMxwbXcUvPTGtszFxfLlsdTJz/3YYXx3ZM/92sPQzaTZ+sbn9rHHjaDyxHh3chvP3+iN4fOeu9yx8cTJ2/yK0uuHkc2G5fG1wN2U9e/S4fmO3rkJDFMUjN+60621i4mIxPSOheSxjdq5UAkGC9eOv9q2w6zR6q7Yzr33qKv93aKg0qD/96j8tqnA2qruqHBpZ3Wu7qmi06G2xPWuwaq7+dBlGXh4o/XHpq6hi/PlifjKz/vdeH0XSY3Z54DorK3i9JX5/oTP0oeG6ord69K4tIC8y4WxlsWt29yPpVAIWlbC3u/S4bHUgbDUrojT8fWh/8Ci/duooMWk6ezH7PSp2PurnMaq6sxyKnd+cK3v88fvxBFpdXis95Sy0u6zusur9f2n+6rP3/tfWEtADXZsf3AdS1eK0u9ZFH1cSEFqU1VPUF3V3ulQWwgBGFQUVVUOAx4+VR0TyO6nh9+eh/u2hLCN1oSo2YW+cXBlcH1mcmGknM1udHIAbmh8YWJ3",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "阿里巴巴成立时，18位创始团队成员中，姓马、姓蔡、姓张的创始人的平均年龄，保留一位小数",
+        "Question": "阿里巴巴成立时，18位创始团队成员中，姓马、姓蔡、姓张的创始人的平均年龄，保留一位小数"
+    },
+    {
+        "id": "16",
+        "prompt": "《喜人奇妙夜》第一季的最佳喜剧小队，他们在第一轮的展演作品中，最后一位出场的演员是谁",
+        "answer": "王建华",
+        "reference_steps": "c2tupcHepO7LxtTds/WCtvTas9/Kz/LJsNXOx/XyssXdsaDLtrbMqPvzq4XToP7NxevSr8nFooKMh9nuhN/ax93Rr9ignN/Wi/X0yM3CgMDcjPnthfCVh/bLhomS1+WwaVEdEMib3tu7h4m20YC9/oGFw9eKqt6sqt6a7qH2w6z16733uiw1IDFTaWdgNy0tSickPiQ9DiMxOSE0fEMuPg8jcygtcxFsdWFiE3d3eHh8dxcZUFNcUEJfVyEndDdQEQYAHEUOQjZYFRNZVk9SheGEh+3RgLGk0/mth96A1buoh7qUyNG+i/6ygOasjoy93KOp05qdp9XCpujPp9zZxdTMs+2Mt/DPtszGKnprdqPCvKbk8qfBzsXayMXz56TZwsX0x73RiKbN5K3z2cuz4oPu/HhMDmew5vjI8MiN6dCOvdiC0dK03vKU/fTV3v8JFkVIRl8CTBRERwNOClpbWE9SDQsCExNUEkRYVlYdAA8AenB4cHF9bjMlUzMkJm4TZXp9YH10EH90XHN8AKfG16H5/8bZ7cf09qLJxMXR7r3Zoav2zKDU+82g6If2zpXVjKPtyaCY0ofsyYX0gU5SS1C19f2V18rY4vmC4rvdsM7I7uLXiK3d+I3QrerT4vvFxeDYw6HehbTUv6rT/sWp7+Sp+dKvmO6p88fJ8dmg6dYsVDo1JX99DzYnJ2sjO0woMUk8JW8qIU17MzEwRSBhDh9/M0xRKTgiJDgcD3gjLRtTFxcXDQZVSXNXA0cyBlIUUFkDU1dVAFVZDAAUVgBVAxxVUgMHGwQ7WkgNisGzhqy60Z+035unrfnCpvTNpM7xxtjIZ6Wd3q7zwanVuKvA86DOmq7s3KL79BV7ZhC369Os6qSxytCyvMaq9Mmq+KPG3/WL8OqcpeKw1f7D+OCDw8eNvcqD19G1+eiU9djc3vGE86ndsMDI/9nQsK8+Wx0TyPqRhMuJV1wEUdervd6Ootyn2qH2+a7RwbfbrqD51KWd3q3I76nYmkR0ZmtyyObCuMzztLjutrTAqcLuoZzYo9H6xvPapMnLo7aPhO/lhMnDxcrbqsSi",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "《喜人奇妙夜》第一季的最佳喜剧小队，他们在第一轮的展演作品中，最后一位出场的演员是谁",
+        "Question": "《喜人奇妙夜》第一季的最佳喜剧小队，他们在第一轮的展演作品中，最后一位出场的演员是谁"
+    },
+    {
+        "id": "17",
+        "prompt": "清华大学建校至湖畔大学成立期间，中央财经大学历任校长哪个姓氏最多？",
+        "answer": "王",
+        "reference_steps": "c2uo09Sq9fCtmMGk2c/F9++q+Oqhm/Sj9uS0t/e5x/F7YxlwYsXp+HWv0qhmc77DhUV8Yq/e2cmUwYfX95XstKLx7qGN3oTt/oTDpqLy05nE0VtSUVgLV4DY1gLeqe0fVIWklQE+UR3Vvf3W1sTJ2sLV2ZrXro7boY3T0+2o39eox9eknMil7OzF9+an4e6jm8Gg8uK3jee22cWnzqmn2KW09/qh8aey5fm9tfCp1s2q/5QaQ4fz75bDqKHNy6eg+YTt4IbFvaH36ZPT5Ib86I+B74zu6NK4tI2uwoSYu8uh+9CzrISf64OS9YC58dOxuNGrvtyQwKzw2qvNwLfsvKLZ2qmfz6vP1KXdqKbK3KzBiKLQ0aLP2cbe/MbF4KLJz8fazr3tn6f+6kN6a8uo9IXW35fppKPt46KA2Yvw0YTyqaHC9pbj6oTL1Y+B/Y3Pw96EuYCo0lID1JC5hJOSxPSOjdqhh+OHhYic36W8056lc6H0+avNwLTDrqHmx3DE6fKs1c2jrsWg8dZhxPvqs8XAuqPgtofDfaXz9MPUxL36qarp33iq/5TD4+CH+Pqch9Rnrf6am+Lki8T0yOP2VJTp34Ly4WIPTIDf9dS/j4Ox44qYqMSW89aUvoeB7YmR+IG/6g==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "清华大学建校至湖畔大学成立期间，中央财经大学历任校长哪个姓氏最多？",
+        "Question": "清华大学建校至湖畔大学成立期间，中央财经大学历任校长哪个姓氏最多？"
+    },
+    {
+        "id": "18",
+        "prompt": "从理想汽车成立至小米汽车SU7车型销量（锁单）破十万期间，蔚来共计发售几款轿车？",
+        "answer": "2",
+        "reference_steps": "c2tupdjRpubpx9THssKTtfnyvfHixsbVse7ZxtbmudL1aABzYxFlqfj9ecbIzWmyt+pEfmlgo768hNXMhML2x/bmr/WdkN/DPTZfxfnDgO7YjPXyiu+1jdnpi6W50Oi4jN+6142Ah76yydm2hPGbi/GFjoyrCwgAAtyP9nCo38B0p8XuKndvdKewz6/796TQuqjY86Pjnant9qPJwsfq2MjX/6XyxMXb1L3so6jUyK/Hxci86onTx5fnq6Law6Glzofq/4b8g6Ly05nE0VtSJjwDSldRUAQWBkzO4+J2ZBocUAMBHE8AS4Wt4yNlVBgDCQoDH9q2wwAadhxlc2J5FW2i1MBlAHBnZ3x1GGem1sQXc3d4YnVwagmi06EVD3ZhfBBmd3G3oM4LD39mdx4SU0iN4fM8c3B9e3QSSkuG7uItfX1NV0BiU0h4V0Yai+Xoh76u0OKXh9uX1JWehKSFxPaFheSUhPquiKeF0ayo0KSTp8rfptzjpsjPyPnnsd+raWinwdaivetlExZqw8HRuNHbtL3kc2UDeqLJz8jA377JhW8LD3+txa/I9/uI/NdZZRRiqsShkPb/iP7NDQEmUpPT5Inm+Y6nx0UkNgbbteTF9/nVrYgUJ2cGzuGwivK3hPuUQXVhADIHGBnTysOry+Or4tKslOan+87G//an6OqhvsWh6eS0oe6/7Mmk2oSnxY221O6s3oaw/eK8nfCm8e9EcwAAhNrxidzYyPrqofmGkN/Di/3jy9HVgN3EX0FAWEjS9v+H/5R9YVDO4+J2ZBo=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "从理想汽车成立至小米汽车SU7车型销量（锁单）破十万期间，蔚来共计发售几款轿车？",
+        "Question": "从理想汽车成立至小米汽车SU7车型销量（锁单）破十万期间，蔚来共计发售几款轿车？"
+    },
+    {
+        "id": "19",
+        "prompt": "香港中文大学（深圳）的韩晓光教授在CVPR2025共发表了几篇论文？",
+        "answer": "5",
+        "reference_steps": "c2tuptTlBj0kRygkdDJDOycjND6isNKi4ue7v+i2ydak16lLYQ5wpcHTpp/TAjc7RyMrbDotLUFMAhOJ+/aQgfK81ObIx/mA68aBsu2D/OO24OiU9vHc7O2G+LXcjc/J2dnXiJbdw4Y5Hk8Rh/qFhPCBiKeK35i93reBp8rYAB4dE2B7EnGmzsXI/fKpw8uhr9+t9+20tfG518ql6pp0",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "香港中文大学（深圳）的韩晓光教授在CVPR2025共发表了几篇论文？",
+        "Question": "香港中文大学（深圳）的韩晓光教授在CVPR2025共发表了几篇论文？"
+    },
+    {
+        "id": "20",
+        "prompt": "香港中文大学的2025年QS排名比2020年高了多少？",
+        "answer": "10",
+        "reference_steps": "c2tupdjRpubpyeLYsvmPt/Dis9rDxeris+j0x9vUYnVzYsX453EDqs/bq7DZoeDuFHmr3MREdwAAhfHyhsbbyeHMr/yPnNrIiPXvyODCgN31gvv2UVgIV4DY1mBr0+u/hvO+1JWOUQXWvew7UUgNVlAcUgYMCAg=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "香港中文大学的2025年QS排名比2020年高了多少？",
+        "Question": "香港中文大学的2025年QS排名比2020年高了多少？"
+    },
+    {
+        "id": "21",
+        "prompt": "根据中央音乐学院校外音乐水平考级细则，如果选用《新编中央音乐学院校外音乐水平考级教程丛书——钢琴（业余）考级教程》，从一级到演奏级共有十个级别，其音阶速度最低的平均值为♩=多少？将结果四舍五入到个位数。",
+        "answer": "82",
+        "reference_steps": "c2tupsHApOzLxtTds/WCtPXesufdxejHFCw8R6b92ar93sj/wMXV6aPJ0sTs6L3wjqbR/6331cuNxYj3w5TZgaLx362/y4bc/oXYmaHc1pjT5obIxI+B5IDp+9O4qW8fTUPVr4jczZHWlNfX69jI6tbV2Z3UnZbbqYrS+9Wr7u6k2PCjoMem7ubF9NyqxNSgnNSg+N20tvi37dSm+blhO1QkPDJzYQ8jMi96Sy4hJiBgJkFNTEJBa0FXAKHgxqyH8Ifc2IXhk6Ht1ZTryITWzYGl0YHY8tSVk4y0wYWTkciQ9NqsnoWI8oCd1oOI0tixut+IkdymxqH20Kz127rLo6P786ab1a3HzKP4rKnH76DVm0tkfmWn56+p9Ki2xf+sxpC90fazu9ep/fJjrLyChPHaTJfxlqL706K14YXN5VKLrc6D88C02feW28XfxsuI/YLcjPXIzsXaqY/SwpLWiffY/dXJ2/bX0YTUgIvatrrR+OKo1tGq6dmvmN+l7efC09yt1ditsuyixvG9nMm06N+l77mu76m4zMKu9Iey0MGziMStzMJEcAAAhejQhPrJxejsrP60n/jhi/zSy9jJgsvQgdjSi+i5hd/Gipe509SvaVUdEMu78ta8u4WJ4oGXxY620tSIpN+Ikdq2w6Py163ozrXxh63e56i45aHPyqn+hqjZ1qHvrqTQ7Kr93sXJ1cXY56Xx9BVgquTYFnyh8MV5d8Gc71dYjs71F3W69cgYTI3Z4ltQwvjpVEBjit3+UlgCjdntUwAKFUUNQ0MTEA0+VR0Txc+Qhci6i/mCiKiH0Lit04OQpNnOp/XDpsjPxf3ysdyntsjzsfT+CHtxfXNhC3Zie3N3eRdzeBhkZ3lxZRFkdXNlEHdlfXh8bO2XUlFTWUNXGWd1aWQAWEJFZFtGDaH+/pjb6IXI942/x4Dp0tWAn4GQ7oWmgMmM2AsB",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "根据中央音乐学院校外音乐水平考级细则，如果选用《新编中央音乐学院校外音乐水平考级教程丛书——钢琴（业余）考级教程》，从一级到演奏级共有十个级别，其音阶速度最低的平均值为♩=多少？将结果四舍五入到个位数。",
+        "Question": "根据中央音乐学院校外音乐水平考级细则，如果选用《新编中央音乐学院校外音乐水平考级教程丛书——钢琴（业余）考级教程》，从一级到演奏级共有十个级别，其音阶速度最低的平均值为♩=多少？将结果四舍五入到个位数。"
+    },
+    {
+        "id": "22",
+        "prompt": "在2024年举办的格莱美奖后，某位艺术家成为当前获得最多格莱美年度专辑的艺术家。请问该名艺术家所有获得格莱美年度专辑奖的录音室标准版专辑中，在2010年后（包含2010年）的闰年发行的作品之中，共有几首歌曲名称是The或者the开头的？",
+        "answer": "2",
+        "reference_steps": "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",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在2024年举办的格莱美奖后，某位艺术家成为当前获得最多格莱美年度专辑的艺术家。请问该名艺术家所有获得格莱美年度专辑奖的录音室标准版专辑中，在2010年后（包含2010年）的闰年发行的作品之中，共有几首歌曲名称是The或者the开头的？",
+        "Question": "在2024年举办的格莱美奖后，某位艺术家成为当前获得最多格莱美年度专辑的艺术家。请问该名艺术家所有获得格莱美年度专辑奖的录音室标准版专辑中，在2010年后（包含2010年）的闰年发行的作品之中，共有几首歌曲名称是The或者the开头的？"
+    },
+    {
+        "id": "23",
+        "prompt": "中国计算机学会（CCF）举办的NOI 2017当中，共有 60 名正式选手获得金牌。在这些金牌得主中，多数为高一或高二的选手。得分最高的高一选手和高二选手差多少？",
+        "answer": "53",
+        "reference_steps": "c2tuq+fLpNrgxcP7sPqbtsLuvNDEyOjEsNr3xsjut9/FtI/Vu5XLDwIPbm4bDHhmEH55bK/o2cut9o7S+1IRVDMlOn4PVxUSGU0GQi1LBh58BgIUTA5TDgBOBl4HUwxJXltqB2hyKntiCwBFFgdOCltfawIfGd6fld6X7KLexaDq4rrqiKHMwa6c367G66nMkKv84qLoh6TYx6Dsxcbv5sTo9qPJ0sn/3bzurK3O0a7Uwci844jF+ZD5vKHV8qGo/oDl80NVDXJXUp/v/oTL14+AxYDp9dSVooOD1oeLis+0/tqYtYWJ4oSt/4Gr5datudGZrtu23qPO+K3Fx7DLvWR8dHQXZ0J8e2yhkMih7Mm6oMS3/sWk37WmyJi1y86m8qyx+8+xqP97fw==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "中国计算机学会（CCF）举办的NOI 2017当中，共有 60 名正式选手获得金牌。在这些金牌得主中，多数为高一或高二的选手。得分最高的高一选手和高二选手差多少？",
+        "Question": "中国计算机学会（CCF）举办的NOI 2017当中，共有 60 名正式选手获得金牌。在这些金牌得主中，多数为高一或高二的选手。得分最高的高一选手和高二选手差多少？"
+    },
+    {
+        "id": "24",
+        "prompt": "某韩团门面和某名字含数字的绿卡成员年龄与实际排号并不相同，在23年这两人生日的中点前后他们某首回归曲MV在油管播放量破亿，这首曲子的概念是围绕哪个神话/动漫角色展开的？",
+        "answer": "孙悟空/悟空/齐天大圣",
+        "reference_steps": "c2tupubXpe/GxczxvO6NturMsfTpxsHVs8rYx9vUtd7jAWUXFm4ECQQHq6/eoPftxfXaqsHeoL+4DggABgsMxdXZPSxFQGhXQEOOpPqA7cC33+2W2dLd+OGG9q7eosDI6+XWuIbQ2okHA1fU8OocU0gGawMfGdCcl96Y1aDw1K3F8bbzjaPD7aS8+3+pycStucqt6dRYFG9wttXdtZTjtq/Bq8/5fBNkcmllxeHWqt/3LEBTTDUZCAYNRTWw2cjG1ceD9deOu/Q+NjUFIC8mJi10P0IyF0FdR0JgNUPVgpTTzJLVv8zX9tjE5enWwYTVg4fVrL3Q9M2owudHdHxrxs3/scmQAD0/MD6ijcKjzfe2n+C20equ7qyk24S22uysy5azxO2ypNCo0eyo/77E29uI4+2eif0=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "某韩团门面和某名字含数字的绿卡成员年龄与实际排号并不相同，在23年这两人生日的中点前后他们某首回归曲MV在油管播放量破亿，这首曲子的概念是围绕哪个神话/动漫角色展开的？",
+        "Question": "某韩团门面和某名字含数字的绿卡成员年龄与实际排号并不相同，在23年这两人生日的中点前后他们某首回归曲MV在油管播放量破亿，这首曲子的概念是围绕哪个神话/动漫角色展开的？"
+    },
+    {
+        "id": "25",
+        "prompt": "我在某天乘坐北京地铁 13 号线，出站后看到了马路对面有一间驾校，走了几百米后来到剧场看了一场话剧，印象深刻的台词和视力的变化有关。看完后下楼的过程中我看到的第一家餐厅和这片区域很相关，这家餐厅叫什么？",
+        "answer": "东直门涮肉",
+        "reference_steps": "c2tupdbXper1xcjWsPuMttT/vN/FAH92dqDdl6bq76Pz7cf77MXX9qbi18Xb5r7Iqabn8q/u5Mm6547S6ZbBraHN5quc8WhXQEOBrd6N2ve26tGazOXe3cSH457encTK0OnWnrfQ377WpdHZzfvI68HS4brXuLPVvojR2MGpyciqyMmooM9LZ28AtPPcsNzMxdL1v9bTC6j57qPh88T+8sbR4671wsf16736uqrS/K7M/MqY2YXW/ZXilK7C4a25/Ira/4Tyqaz555Xkx4T7xI2m2G9VTBHeq//J293brK/R1ZHWpMbU/tzE++LZ3qHWo7zbkqnTzMBEdmZtp9v1xczxs+2GttjHs8XExtLMsNjzxPrmt9/FsKDdt5jMq9r9p7f8o+76yM3HrsnT",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "我在某天乘坐北京地铁 13 号线，出站后看到了马路对面有一间驾校，走了几百米后来到剧场看了一场话剧，印象深刻的台词和视力的变化有关。看完后下楼的过程中我看到的第一家餐厅和这片区域很相关，这家餐厅叫什么？",
+        "Question": "我在某天乘坐北京地铁 13 号线，出站后看到了马路对面有一间驾校，走了几百米后来到剧场看了一场话剧，印象深刻的台词和视力的变化有关。看完后下楼的过程中我看到的第一家餐厅和这片区域很相关，这家餐厅叫什么？"
+    },
+    {
+        "id": "26",
+        "prompt": "我所在的地铁站在一条对称（对称轴为南北方向）的北京地铁线路上，大致往南坐 3 站就可以换乘到另一条对称的地铁线路。但倘若我只往南坐一站，并换乘至一条有趣的环形线路的话，向东遇到的第 1 个地铁站名和第 4 个地铁站名的编辑距离就只有 1 诶！你知道我在哪个地铁站了吗？",
+        "answer": "五道口",
+        "reference_steps": "c2tups3Fp/rqx/fLs+COtubVs8PUxcHPsd/Wxd3gudbAtZr+u5f/pdrPq7DcquTYws/Sqeb3oomQgeHziOn/xdfdEaCY9oDl84TmgqHYx5fp2onFzIq6/oz65NSovTzO4+E5AgMUhJOKy+yfOoKVz4Cu8deaoBXXiLnTz9J9pOPUbGwTx/7+chnE6+Wpytyji9dos/vSxczHYaLqyw1/Csfq86b158Xkyr/5tKnvxKHCxsu712tdT1Kdnfiy3ezC+P6A/vKMldiM5Pe27dGV+ezdzslBUxHcjc/I/9Pao6zTyarWvezU8OrKzsoRVRDVgZLXqonf0cSp6NGo0d+susCm6NfI7dmn4tGjhvWg5vS3r+u2zMxhYwCj07220eSg5Ky86tleFGFuqsHYoKuoh9rgicXkx+HurfyaWFFFgd/gyfzxgcjPjcTNi92Kh/XwjY2xHkXKyPrWoKDT3qXbk/DZ1fvKxN3V2YoRCBjVrL3T3vWn0Mmq6suur8mn2unGzumr7vqiuOGgxuO0qNG3+86i0qI=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "我所在的地铁站在一条对称（对称轴为南北方向）的北京地铁线路上，大致往南坐 3 站就可以换乘到另一条对称的地铁线路。但倘若我只往南坐一站，并换乘至一条有趣的环形线路的话，向东遇到的第 1 个地铁站名和第 4 个地铁站名的编辑距离就只有 1 诶！你知道我在哪个地铁站了吗？",
+        "Question": "我所在的地铁站在一条对称（对称轴为南北方向）的北京地铁线路上，大致往南坐 3 站就可以换乘到另一条对称的地铁线路。但倘若我只往南坐一站，并换乘至一条有趣的环形线路的话，向东遇到的第 1 个地铁站名和第 4 个地铁站名的编辑距离就只有 1 诶！你知道我在哪个地铁站了吗？"
+    },
+    {
+        "id": "27",
+        "prompt": "考虑全球影史票房榜top20的影片，其中21世纪的第一部，当中国将它引进并在大陆上映时，负责发行的两家公司中，LOGO中未出现绿色的那一家，LOGO上共有几个英文字母？",
+        "answer": "14",
+        "reference_steps": "c2tupcHzpNr7xcHps9GjtvX+sMP2x+vtsM3txufMv/nNtKn/tqjgqPnDqLj0o8/iydj6RntgZcuO+YXT7JfxkKHcyaKs/4fY34Thqqfl75nL2oT1woCE3Ibh6TsLG0XL6t3WuJ3R7aLbjO3X9N/J2tzV2Z3UooXVoozT//Smwemp+u+tvM2ozdHF1uSq2vSgmMCg28u3hM63xPCk75Gk3LG47c2v0qm93Mi8lOyq9/KrwILF7NlkVVxZxcrbrOCvNC0iIYX0pKPe2pja147O74608Iz4xjsNG0XJ287WjZx4LXR8ydm7hfyph8umhYiL27iudXF/DARuBQEBDHIMcgsUBKOgzmhgda7EvA0NHwsTAAcZHAhhEW9vH3QUrsHU",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "考虑全球影史票房榜top20的影片，其中21世纪的第一部，当中国将它引进并在大陆上映时，负责发行的两家公司中，LOGO中未出现绿色的那一家，LOGO上共有几个英文字母？",
+        "Question": "考虑全球影史票房榜top20的影片，其中21世纪的第一部，当中国将它引进并在大陆上映时，负责发行的两家公司中，LOGO中未出现绿色的那一家，LOGO上共有几个英文字母？"
+    },
+    {
+        "id": "28",
+        "prompt": "欧冠决赛历史上，分差最大的逆转中，获胜球队最后一位进球的是哪位球员？",
+        "answer": "弗拉基米尔·斯米切尔",
+        "reference_steps": "c2tupeTqpNTrxcrHsc6St/DFuvDIxcbDsNDixt3QteHmtbrFuqDWpPzlqLj7oND9x8bnqvzooLysIiKJ0MGcpfe69cjG1/aA5uWOtetVX0O27dFBWVswUEtBh4mA3cKphfSF2bqAjY+/y/2xh/ajht6xhY280Yep0am1pd/KpdDipMHDx//1lvbJy/emz8qjlOygyu21jO1mYKDJ1MnTzMfKyKn21cfExrvUokV9Ymmq+KjG+86IzuaRldyw8PfF8OSK0u+On+WD+fm03vKU/vfV3umE8r/fjsjF3PjWtYjQ2LXWp8HX9dDI8OrW44nWqbvXkp7Qyt2tw8qo2vKtjeCm1vjHw8uq8euiqNat6d20vMi4796mwqNLZw5wqt3JqZvcotrtx9/Nqe3po6a4hunHhvvQxvLzen4SkOzShuD0yODfgPbzb1RcQ42yy4Loy9eNk4KQ+YSxicqk4dSpqYah4YO8+o+Q29WLtt6qmdaK2K3x6a/E+LvijKHxwIOXttvHs9f4z/LNtNLZz/3Zv/nNt7DItpjTpcbFq5DAh++8hfCr7deh+abC9OqB3fuWnMuy8+LHx9Kn2YrwkqLkzLLkjOb+hPmljdnpoabXiezC3+/WjLrS6brWstvW09XI0vLz1tanlt+Dhdy+xaD+16fxybDcq6v93UsWfWipycyhsMCh7sW2ncy2yOqu7rqk77e2x8is0Zqz9OuxkNuM+6/Y6smR0ITm5pfJtA==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "欧冠决赛历史上，分差最大的逆转中，获胜球队最后一位进球的是哪位球员？",
+        "Question": "欧冠决赛历史上，分差最大的逆转中，获胜球队最后一位进球的是哪位球员？"
+    },
+    {
+        "id": "29",
+        "prompt": "2025年五一期间，北京飞悉尼最早的直飞航班是哪天的什么时间？",
+        "answer": "5月1日（周四），凌晨1:40",
+        "reference_steps": "c2tupsTapejnyeffssOptvjzstbAx9Xxv+bMyMn6t8rstpj7t5j9qdr0q7vprMHRyMfkq+D0ZW1hUlZda0BXAHVle3HFwdaDw8eApe6C6t218teb9Nze2t+Hzb7dpM3K+ecBBBsDaAAdDYmE1Y+O/ICm19mmjdyKjNy61aH076/XxbfMrKLY/HAaZ3ig6cCssPOgyvW0t/e5x/Gl6pqn0am1/P2s87Ox2ehlFHV7fEN6aw7E2fWK2fKfvNi83vDPxO5QiP/gHKLywJbLyoTjy42h+Yrd7tekvI2lyYS8nQ==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2025年五一期间，北京飞悉尼最早的直飞航班是哪天的什么时间？",
+        "Question": "2025年五一期间，北京飞悉尼最早的直飞航班是哪天的什么时间？"
+    },
+    {
+        "id": "30",
+        "prompt": "一位诺贝尔物理学奖得主同一位诺贝尔奖化学奖得主的年龄相差6799天，他们两位有相同的first name，曾就职于同一所位于美国西岸的大学，请问这两位诺贝尔奖得主是谁",
+        "answer": "大卫・贝克（David Baker）和大卫・维因兰德（David Jeffrey Wineland）",
+        "reference_steps": "c2tupuzqpN/gw8f6vPW9ts3EsfbKEn53YqDrlKne56D/xcju6cjk0aT52sXY0735hqrr2kN8aw7Fx8aL7Nmao/y9/dnF/elUV1pbyP3RgMDijeD+h9K0h+jvhaqj3MSShseU1YCSipaMxPq0h/2Th+63h5CQ3qyt0bCfp8nYpuXrp8fSxsrJXnIOc63r8qnJi63G7a3mvaTV26DG6MfVzMTqwnBweBKx/OxlEKnSxH+o0osqV09OhNbexcr+qsebn9nRi/jIyMHVgM7kgdv8UVgLUIDY1tm2goCT9IucisWA/9aDuYa4y4G95IOcx9WUrzIHGBnT5uKrzuOuwumsm/Ckz+HF1viq6/ugmsB0b3JixfjkuMLyYxl2ZsXp+KfV0cnD8b7fpav196zDy8m7+IjP3pfdh6L476OA7IXM2IbihKP143plS0GX5NLd9vqF2L8JDFEZhtqHAsuo6gEHy/aUaFEDQlcIVwLUgIwDBt+qynOo1O1gcGt/FKH44HPGz8B9YarThXNzYXxrxeX5",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "一位诺贝尔物理学奖得主同一位诺贝尔奖化学奖得主的年龄相差6799天，他们两位有相同的first name，曾就职于同一所位于美国西岸的大学，请问这两位诺贝尔奖得主是谁",
+        "Question": "一位诺贝尔物理学奖得主同一位诺贝尔奖化学奖得主的年龄相差6799天，他们两位有相同的first name，曾就职于同一所位于美国西岸的大学，请问这两位诺贝尔奖得主是谁"
+    },
+    {
+        "id": "31",
+        "prompt": "截止到2025年5月1日，人工智能领域引用量超过25万次的paper的第一作者是谁",
+        "answer": "何恺明",
+        "reference_steps": "c2tupcDnp//pxczxZnESZq324XmivMZ0sNL3z/3ctP/7t5fktbnqpML0p4LSoMfLxfPbq93mrKmvi9fric3+EnKx8cPG1MOC9OcYTDQAF5bLyiUXBhgaMAASC1VNVAkNLwZSQkNdDFQTSw5DQi9AAwERM1VSVl9cX01fLStEcWZtBTcuUGQTMTJJNz0uOWwIRS83OCw8R2E2PzdhG00gNAACKSImKU49MTE7TqjUyK3z2cag5of2zpbEtaHU86K49oHl74bUjaPAwJnIzYLy4oyB2YDR89S1ioat4oaeqci98zkAA0HWzsrJ2ubV3KzZub3UrpbS/9CowvKr2dw=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截止到2025年5月1日，人工智能领域引用量超过25万次的paper的第一作者是谁",
+        "Question": "截止到2025年5月1日，人工智能领域引用量超过25万次的paper的第一作者是谁"
+    },
+    {
+        "id": "32",
+        "prompt": "截止2024年底，离北京地铁十号线芍药居地铁站往东南方向两站最近的购物中心，比离芍药居地铁站往西方向两站最近的购物中心，早几年开业",
+        "answer": "7年",
+        "reference_steps": "c2tupdjRpubpx93/sfuGttT/sNf6KnxrdqPCvKbk8qDNxcT7/8XM/Kjaz8XZxL3bl6j086byycuZ1YbPz5fXuq/fxKyt14fU64TDtKP/4ZTu6IbPzWIJTEWGw5/dm//F6e7bvYLR07bUhvjU3ObJ2vrU7KfXr4HXpqjS+uGp6NGr2f2vmM2k0cLG8u2qyfyts8+i/dxYFG9wttXdtZTjt5jZqcTKqIHxoMTkydzPq+LXrLeki97/h+75yPjErt6kkNbIierByfzIgM/Qit3+hMmUh8v7hKmX0OKJhuSD1pyzaAYdDYS2xoOq0oCA5tervd2Ott2O2KD396z2/LTTj3ZxZXDF6vxFY2Jkx+/rs+vIyMvduMjut5HEtIvJqf/JpoXro87txd/fqPHqooW5hfnBhNzwyPPLoNOInf7Vh/Dpyu/8b0d9RYfi/4+OwIDP69mMq4y6y4avgMSn49SYtIio5o6S84Ct4diOqN+ostGC76LH6qz17Lf0o6v92KaB/a3hz6rcj6nL+aD8p6ndz095fACm3Y+14sahw7+z39yxnM+q9NOo0pjJ9NWI+d1LEHZtrP2UcltLTobviaHi1Zbi4ofd94+0zYDP5dm1qoO6ylTWiZnR3rPXlfs=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截止2024年底，离北京地铁十号线芍药居地铁站往东南方向两站最近的购物中心，比离芍药居地铁站往西方向两站最近的购物中心，早几年开业",
+        "Question": "截止2024年底，离北京地铁十号线芍药居地铁站往东南方向两站最近的购物中心，比离芍药居地铁站往西方向两站最近的购物中心，早几年开业"
+    },
+    {
+        "id": "33",
+        "prompt": "2024年滴滴自动驾驶主力运营车辆的最小转弯半径是多少（单位：米）",
+        "answer": "5.9m",
+        "reference_steps": "c2tuq8nZpu/axtTds/WCu/XjsPDrxcPPs/vWyO/xt+vWt6Xttpzfo/3THB10LSwgUDx0Y2YsJEdLBk8eAhMMVCh7KitNVgELQVVeHHxXUV9iV1hCV1oJTA0VD10yB0sNi+Kn15ClhKOvytWTUFYfVoOI1daKjd6JgtGx6KDE66Hk/7vilqz88qme1azy6qvQiKnf0q3vhqTO26r9yMbz0MXg2Kf7zXgXfGh0ACc6ODk9fwEPFBYZTwoQTi8gKCpFDEwGAQ5HWSEGDV9hVVNGUlgLWkpYBlUBBVAYAlZVBRwAVAcGFVcBAFAYBgcDVQAFCVkKBhZVbC06LiRHcnxryMXVs/yxtdjTsvjmxvzGs/XGxvPTCAZ4Ysfb18jt+Kn+0wAYquTOEnZ2eCQjZUZUFxEdW11WQiY8IiEOGgMMChZGTisIShknAAxdRi0MRydTRwkLECAYRiEDFRQAR3YFCCMDR14eOiUIUR8ACQEAAQsHdk96bWilwMasndWnxN3H5+qp58+hkNqj5MYKY3hgt9/FtLzBtoT3qcjEpp36reX4yOjco/XUo7mAhdL7h+Llxc/lQ3EOWIT6y4vHj6LX5pXj8YfA4I2U+oLc896EuY2j1Ia8plVXWwPUt+XX99bL78je3arUh6/XvoliNzcgKiYqYTEiUictMWEIED09N2wwT24mIzcwCXxjaGt2ckY1vJzcqcz6qZvBre/7x8bXpOjCrIeWhejuiO75x93Rr9igndLqht7EyPjKguvngN/2CxxOEhZbTR5PQhIDDgZXWUwaFFxfWw5SAxReTAVeDB9WVVdQV1UZJytjJCpiLD0vRSgyezlDanhgZ3x2E2E2JiAxSSc5MyQ1O08vICpmYmGsw7Ww+NWyre2p4t6h+bQTW09ZQRQNAKXcwWQRSUxdA2lfA2SC3uO1+/2azcndzPJJhaqM0NupTFEa35GuUwIdFU4DX1MDWws=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2024年滴滴自动驾驶主力运营车辆的最小转弯半径是多少（单位：米）",
+        "Question": "2024年滴滴自动驾驶主力运营车辆的最小转弯半径是多少（单位：米）"
+    },
+    {
+        "id": "34",
+        "prompt": "在Java SE 17 官方 API 文档中，java.util.Objects 类声明了多少个静态方法",
+        "answer": "20个",
+        "reference_steps": "c2tuq8nZpu/axtTds/WCtvH5veL7ydnrHCQkQWEDFWVwZQCk/bi22viu87G95O27nNUmOD0+NhQPTAUBAgFXTzU0KihFVgEKA0wNQ2sPBAYySgsTFQlJB0pQVR5RWwFIG01bREBYaAEdDYmf3Y+6zCdhKNanvt6TlVFCNjU9eWdiJT0oU2ouJiBDPy1hNiMpDysreS8zViB/OiQ3M1MkfBFnYyUmLVN7JCg9DyYgKCw2a0ZUDg1kUlxZycfFrv6Hnv3AiOrWwvjpguvngOnCheGEh+3RCFBOVEtYFwpfHmJWCFZQWRLW093FzcDX4rXYmI3bq5teNjE+MHJibjYkQzdvOzNBMCQqey8rTWEgOGo4QTcxfy8gJEEyNg9he24tIUMnajkkSWAkLT8va0xBEARBCxMPQWggPS1MVy0HBAYLWTdLDQQ+CWtGTUje2N+E1ZTfjvrFzcITfUhAClxXDTJEDwtMEB8RhYic3qK236SvpMXPpd70p+HextHxvcavvPTDsPLTxcb1sNnSx/rYt+jVtIHJvJzKfnGt9oq7+dCwmdCrw+aq/ovG6euI9MKfremw7cnF8NSA5tMNVScACZ/v6Yfk2oyE3YLa/dmWlIqR6g==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在Java SE 17 官方 API 文档中，java.util.Objects 类声明了多少个静态方法",
+        "Question": "在Java SE 17 官方 API 文档中，java.util.Objects 类声明了多少个静态方法"
+    },
+    {
+        "id": "35",
+        "prompt": "世界银行发布的2023年各国“GDP Per Capita”（现价美元）数据里，有多少个国家的 GDP Per Capita 超过 30 000 USD？",
+        "answer": "45",
+        "reference_steps": "c2tuq+byqMXlxPzXs9Ssutv5ve3Ixcvps/nSxtTgtsjvt47ZtJ3Bo/3TJlQgNStuD2AqLT0va1lPEQ0KAxMXS2k6OyMOGwxKZFFGDazL2pnEy4XI2Y2n5SIlMt6EvYKj04eIh8qK7Na2ro6N64+M14+sw9+No1BGQklFeGphJyk5IHw8TzYtMCNBPSNhOj4jDi0reSw8RCgzMTEuIA8PCg4XCBFnHmMVFXYXZEV9Ymmq/aXI3tw9IiSfgPuw9cvG7dKD481iGWpFjdfwgO/5h9CxitjchKe/0d6bjN+/1qSnh4+zbDF4PSh0TCF1MR5henliGHpyHQEdcRc3KQ0oUzIeInN/anh5ZXpqQz0zXHB8AKfZ7qDJ4sbd08bG/KTw+sTv+L/OpKnb/K/D68Gc+YTm9pfpraPt83YQSlFvWE1IyfnaguT7ABkRBgTf1cCE54bfmP7E4+rVuZPR6oPXl9vU1cNqJjYRXxACCQgCBt6sxq3vz6fxzbfOkXFysPmKWX9hdanKm6fc8qDOkKTc6qr92sb/4MnH5KLJz8ny3L7sj6DyxarOxMah+YT+6ZvYmajpwaGs74Xb4IDorKLJwpfI+obf6oeG64rd7tS9hI2DwlvXiIfb3r/WpMjV3/8ZV4KJyw==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "世界银行发布的2023年各国“GDP Per Capita”（现价美元）数据里，有多少个国家的 GDP Per Capita 超过 30 000 USD？",
+        "Question": "世界银行发布的2023年各国“GDP Per Capita”（现价美元）数据里，有多少个国家的 GDP Per Capita 超过 30 000 USD？"
+    },
+    {
+        "id": "36",
+        "prompt": "有一部日本动漫，讲述的是一个人人都被数值度量的社会，这部动漫的最大反派，测出来的数值最低是多少？",
+        "answer": "0",
+        "reference_steps": "c2tuq+fLpNrgxcP7vP65usvnsMbsxvLusN39w8HatfrCtbDHtZXbpcbGpqDRptjfCB89NSomKgNwAhIdSHhLDme95sLF8MmA6dmOscSAwde0/+WX7OXc1tuH+p7ekvzI0fjWrI7S6Jc5Hk8RhPaxhdKTh5eo3Iqp06WVpM/qpNLJptjkx/nrss2ntd3/stf8xcv2sd/Wx/zBueT0vZzNt57bqefLq7z8oePxxPfFq/TfrI+Vh9nDhP3WxPzwrPq3nerViP/oyfnrgPDvgdnIU4+g5oHew9e5moqR+QtHRF1HWBwcXRJIAQ5CEgdCEh5XWFZWWVQYISojbD8kKjtkEHVwYh50Oy0QEi0wRT0aOSMNajQ0NygkPFQ=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一部日本动漫，讲述的是一个人人都被数值度量的社会，这部动漫的最大反派，测出来的数值最低是多少？",
+        "Question": "有一部日本动漫，讲述的是一个人人都被数值度量的社会，这部动漫的最大反派，测出来的数值最低是多少？"
+    },
+    {
+        "id": "37",
+        "prompt": "有一个景点，是一个老太太花了很多年的心血，用一片片瓷片建成的。这个景点的门票上，印着一行字，请问这行字是什么？",
+        "answer": "千年瓷宫万年藏",
+        "reference_steps": "c2tuq+fLpNrgxcP7vP65t/Dls9Xrx8z8sN39xPzdtP/PtLnutp7npdTOq5jWosLQws/Sq9r5oICLgeHza0BXAKHF1aOU2oft3ovXtKDdz5bKyobw2oGtyoLEytajjYCo0ISptMqJ89qSmGsCTEbI59HUxbdndXXatYTTyN6h/8Sp+tyit+ym8enFyPao3MugmOOt+cO3qOq11/+nz4Wj07y1wcKs95Sz1u+xjuSq9M6r/JrI9O6M4e+Rn9696MjG7uWAw/Q=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一个景点，是一个老太太花了很多年的心血，用一片片瓷片建成的。这个景点的门票上，印着一行字，请问这行字是什么？",
+        "Question": "有一个景点，是一个老太太花了很多年的心血，用一片片瓷片建成的。这个景点的门票上，印着一行字，请问这行字是什么？"
+    },
+    {
+        "id": "38",
+        "prompt": "有一个被剪做鞋样的历史文物，对研究唐代均田制起到了重要的作用，这个文物中记载的年份，有一位唐朝的一代名相去世，请问这位名相有几个儿子？",
+        "answer": "4个儿子",
+        "reference_steps": "c2tuq+fLpNrgxcP7vP65t/DlsMLCxcH3sNPVx8j5tt3usKDdu5XlqsHJqJv1oPzbx9v+qezfp669aVNAQZrWpqLd4qGnwoTz6YThhKDdyJj91YnP3o+g5oDY1tWDiIO1zIuHrsWT4Na+rIWJ4YOU1omN6dW0ld23tQ8CcaD396fxyFh4DmSp+8fF2+Oq0vahsMKg7/G3rvq06NOmyKSkw6231/mswYuxxMK9jcCr8vxEcQAAhejQhPrJx97rrP6Gn/vbicT5wvjpjd7ygs/lhu+Aht73hK2x0P62h9uZ1amLh56j",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一个被剪做鞋样的历史文物，对研究唐代均田制起到了重要的作用，这个文物中记载的年份，有一位唐朝的一代名相去世，请问这位名相有几个儿子？",
+        "Question": "有一个被剪做鞋样的历史文物，对研究唐代均田制起到了重要的作用，这个文物中记载的年份，有一位唐朝的一代名相去世，请问这位名相有几个儿子？"
+    },
+    {
+        "id": "39",
+        "prompt": "2025年，有一个选手，以领先6局的比分，获得了冠军。从正赛首轮开始算，他一共赢了71局，请问这位选手是谁？",
+        "answer": "赵心童",
+        "reference_steps": "c2tup/PDdmOukcSp69jE6+Km/tShkc6jw/W9nM223u2n56uk1Jq489ig75m8+sixqueo1Oao04HIzNuL5PlzEml1e3QSTYfc2oX+gqzK35XW7obo546V9o3U+dWAmIqR74a8msuo69uGmISO4YGGx4OtydW3itCHrd2O76H15nl1bGN5x97Fsu60tsDJvcLzxfDSs8PyxcfL",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2025年，有一个选手，以领先6局的比分，获得了冠军。从正赛首轮开始算，他一共赢了71局，请问这位选手是谁？",
+        "Question": "2025年，有一个选手，以领先6局的比分，获得了冠军。从正赛首轮开始算，他一共赢了71局，请问这位选手是谁？"
+    },
+    {
+        "id": "40",
+        "prompt": "《本草纲目》中李时珍提到过一味草药，评价其药性平和，味道甘甜，质地柔润，叶子如竹子一样，根像黄精一样是横着生长的。请问这味草药叫什么？",
+        "answer": "萎蕤（又名玉竹）",
+        "reference_steps": "c2tupdjRpubpw8TLst2Mu8XGsvb2x9XrtcXZxc/PttPGWBJvc8X/9aLJxMbI6bDZqaj0/q7V682g6Inj6Jv6iKPt5KO6/FBSWIb5nqzo7JjeyoXM/o6Ww4Px/taMl28eTUPVuZPR6oPVou7Z3dbJ2svV2b7TuaTUtp7T+/ar0vuq1cqknMiny9XG5e6q2uOtg9Gq6sm3pfe28Pyn+oqmx7+08P2g9aSz9+a2oNKp1s2oyqHI3NGJ+sqejOGy08DI9euN48yNvcmCwsA=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "《本草纲目》中李时珍提到过一味草药，评价其药性平和，味道甘甜，质地柔润，叶子如竹子一样，根像黄精一样是横着生长的。请问这味草药叫什么？",
+        "Question": "《本草纲目》中李时珍提到过一味草药，评价其药性平和，味道甘甜，质地柔润，叶子如竹子一样，根像黄精一样是横着生长的。请问这味草药叫什么？"
+    },
+    {
+        "id": "41",
+        "prompt": "2025年3月，在深圳交易所上市公司的总交易额（包括股票、基金和债券），按照地区排名前五位的省份或直辖市，合计占比与去年同期相比增长或者下降的比例是多少？（百分比例保留小数后一位）",
+        "answer": "增长1.7%",
+        "reference_steps": "c2tupdjRpubpz/jbsvaRt/Lrs8XExfbHs9noxtTgtsjvvZzbO1QkPHtmYVcjMnYnWjwrYiogakNBEQoLFV0WViInPy1FD00MAAcNVWoNER0/b1NcQ46w8YDu9AMIB1DI2tcA1rG8h6+DyO2LhtyJhP6ih76j3IK90KyGpMjgSXtjYbXwv6zv9aWa967XxqrEm6fny6PcsqTA3aDI3xWkw6231sWu0qGw/uWyqNmmzMyp3prI3feL2fBzFGl1oeqBn8zygd/yyM3ogcrHgPH/hviyisvAhJ6s0dumaVYdEMu+8da8u1MBUFLI29ICh6y53KSC07WMpv/qpdDep9zZxf7OstSQtcXhX3pqAKn+ya38gaXq9KPZwcbB6Mny0afH3MXEyL3drXqr3MSp36rH/+CK2s+fqNG9ycHH49aN0PWNlcZvUl5zjc/ThMatjdn7h7i1AIC97oajuMWaw9WcuYWP6WwVjdqrh5+l0Yax0oGSp/z6ptjBp87UxtHxssyOvPTDveLlx+DSs+fMydTvts3XuqDEt5jbpdjEqI/Aoebf",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2025年3月，在深圳交易所上市公司的总交易额（包括股票、基金和债券），按照地区排名前五位的省份或直辖市，合计占比与去年同期相比增长或者下降的比例是多少？（百分比例保留小数后一位）",
+        "Question": "2025年3月，在深圳交易所上市公司的总交易额（包括股票、基金和债券），按照地区排名前五位的省份或直辖市，合计占比与去年同期相比增长或者下降的比例是多少？（百分比例保留小数后一位）"
+    },
+    {
+        "id": "42",
+        "prompt": "综艺节⽬中国好声⾳中，有⼀位导师参加了不⽌⼀季。这位导师职业⽣涯⾄今，演唱的⼀⾸歌曲被⽤于某部电影，这部电影的同名电视剧（同⼀IP）有多少集正剧（不含精华剪辑版）？",
+        "answer": "32集",
+        "reference_steps": "c2tupdjRpubpxPzssdqdtd7/s+HIxe31s+ruxfnYtPrgtKHuvJzcqc7Yqa7krNr3yMT/r8nPoL+Ihfzehc7fw8fUr/WKndHVjePpyP7bg87XgNv0hMWzh/jmh7660d2jhsep1YCXaAEdDYeh/oGZwI+zwti6iNCQnduL5qH0za/Z9Lf2kaPb0KeN367U50Z3Dm6jxtm1lOO1we2nz5Cl74a47uqr84Sw/9aztPqr8fip36rGzu2I+sBzFGl1r9S8n9bHiNLCyPfVjdL4h9zWh9K0hfHUh4yJ0v+phc6/1raGaAYdDYeh/oGZwIOL39aPvd2IsNGU6afz56z3z7XflaH85aa6167i2arfkkRzeGW2nty2/OSnwrym54K32PSs85Gy3fexsOmr4dGr2YbF8+2L8f+etPK97sLF8cWK0u+Nk9OA4sq658Ka6NnV3u2F36TcjsDKz/rUnobd2avckejS4ufI887X/IDVhZ7dirHS+simwPWl7uasusCm89nF/M6g6cVOF2Bls83Uxcn7ttXdtZTjt53FqPrsqYzNovb/yfTWr8nPoZati+LTid3Nx93RruO4nc3jiPvHyNTDgODfh93yKjgwWktBhKGk0tGPh96m1JaRhZ+qys+ai921hfKEiZe33LGV2YWspOjtpsHqqNHjxczHZ3PJyM4=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "综艺节⽬中国好声⾳中，有⼀位导师参加了不⽌⼀季。这位导师职业⽣涯⾄今，演唱的⼀⾸歌曲被⽤于某部电影，这部电影的同名电视剧（同⼀IP）有多少集正剧（不含精华剪辑版）？",
+        "Question": "综艺节⽬中国好声⾳中，有⼀位导师参加了不⽌⼀季。这位导师职业⽣涯⾄今，演唱的⼀⾸歌曲被⽤于某部电影，这部电影的同名电视剧（同⼀IP）有多少集正剧（不含精华剪辑版）？"
+    },
+    {
+        "id": "43",
+        "prompt": "番茄⼩说《攀⾼枝》（作者为⽩鹭成双）的⼩说，第九章出现的第三位⼈物是谁？",
+        "answer": "王神医",
+        "reference_steps": "c2tupcHepO7Lx9HrvM2ksfTmvePwwvP8ufnextHMt/HjsaDLtbTQrv/1qL7JptjfKn1gbK/H1suc44bCzZbAvaD+6U4TVkKD592NpfSCydy33eiW28Lf5d+G7IHfr+HJ2dnUuYQ=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "番茄⼩说《攀⾼枝》（作者为⽩鹭成双）的⼩说，第九章出现的第三位⼈物是谁？",
+        "Question": "番茄⼩说《攀⾼枝》（作者为⽩鹭成双）的⼩说，第九章出现的第三位⼈物是谁？"
+    },
+    {
+        "id": "44",
+        "prompt": "有一个乐队 它的录音室在中国北方一个电影制片厂内 这个乐队第一张专辑的封面字体是谁发明的？",
+        "answer": "毛泽东",
+        "reference_steps": "c2uoytuo/dKtsNim4OPF6vuq2vyrnMKj9vy0re+58t2myY6k1pO52O+h4a2y1cSzlO2szNWp0ZvF3tCL6cSeqcCwx8bF/ueC9OeMlNSM/e+22PSb/NvfzMGD4qwyB0vLw9rVvYPR54Dauc/ZzevP4vrV2KDYoafQtqTUwtmp1/2o/OOuqPKm3cbF3cqt1dGhjtSh68i3qPGy0Nml6qep0J250dOs95Sy0t2xmtiszNREdgDG/MSGztCRj+Kx8NTJ4P2MyPWMldeA1fG6+MOX+Nbd6+JrVh/drtvK6uTbn6vR6pjWg/vV3+vI6tbXzqvVhKs4AxfTysOo3dir7smvndek29DGy8ar7/agmPSj+d60k/y06Nk=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一个乐队 它的录音室在中国北方一个电影制片厂内 这个乐队第一张专辑的封面字体是谁发明的？",
+        "Question": "有一个乐队 它的录音室在中国北方一个电影制片厂内 这个乐队第一张专辑的封面字体是谁发明的？"
+    },
+    {
+        "id": "45",
+        "prompt": "有一个来自巴黎创立于某个世纪60年代，字母样式logo的小众服装品牌与另外一个来自创立于18世纪40年代的瑞典的知名品牌的logo恰好对称 同样也是字母样式 这个瑞典品牌从2015年起被一家公司逐步收购 这家公司的总部叫什么名字？",
+        "answer": "天空之城",
+        "reference_steps": "c2uoytuo/dKtsNim4OPF6vuq2vyrnMKj9cW1lOO12N6m+aul6a5mfKTw+sTv5r/OpKr5+KD1y8i87onN5JfqoaDcxaGy9A4KCQyNtvqA5v9ZV0+UwOjd1seE6qrfnu7J2e0CCMmM9NSJh1UBh9+Zht2Shqq13qms07yOpd/KpNfopMLGxdfAs8isttrDOSMjT6ve6KDRr0tjfqPh68bM/cny1KbS4MXR9rHAjqfhwavO2cuP2obJ0ZD5vaXV1aGN74TK44HosGSN2uu7xO0eDA9VhMr1h56BFYKMzYadqsiD1tqIo4Si44Gk7oKJ23hUWlBGU0sWEiQ8Kjui/d6ssdqk0fnFwMmo3MCgmPQNNzYhRS0yPCQlWBRvtYPQq/XrBkEnNj04QiMvKK/a88aUzoXRwJT4j6jpxaGO4obY44bgnQAPDJXPzVNCUl3f29GEzYjdsNPF3PjbkaHT+LfVudfZ1ssnV0jXwrDWjZp2XFDTx+mrzPCq29atoP+o1+kAtdjTsvjmxcb1s8DkxdHdt+Lxtpj7saDMqeXgqYnuoeHfxdDArsnT",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一个来自巴黎创立于某个世纪60年代，字母样式logo的小众服装品牌与另外一个来自创立于18世纪40年代的瑞典的知名品牌的logo恰好对称 同样也是字母样式 这个瑞典品牌从2015年起被一家公司逐步收购 这家公司的总部叫什么名字？",
+        "Question": "有一个来自巴黎创立于某个世纪60年代，字母样式logo的小众服装品牌与另外一个来自创立于18世纪40年代的瑞典的知名品牌的logo恰好对称 同样也是字母样式 这个瑞典品牌从2015年起被一家公司逐步收购 这家公司的总部叫什么名字？"
+    },
+    {
+        "id": "46",
+        "prompt": "有一部短暂获得过奥斯卡最佳影片的电影，在最广为人知的一张海报上左手的手势被称作叫什么（英文）？",
+        "answer": "Hamburger hands (也称作La La Hand)",
+        "reference_steps": "c2ury86r38KpoNimy+zGycqn2/uhntmn1thyxs/4tcL7tbT0tp3hqs3OqbrQo8D7x/TBqcfIoZSmisPvhNfvxP7ZoPq5n/jhjePiyszUgcnDgdj5hve0geXqaAMW08athNeR1aiChK+zyv6Uh/aghfy1h4WG37KX06KIp8bBSXtjpNrNxtrRsvSXtcLqsfTpx9rysv3pyObCtfLntKnKtLrUqcvhqp3IZbzsmq3O0CEvKExVEQYLE1IRQSkxOqag5Q==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一部短暂获得过奥斯卡最佳影片的电影，在最广为人知的一张海报上左手的手势被称作叫什么（英文）？",
+        "Question": "有一部短暂获得过奥斯卡最佳影片的电影，在最广为人知的一张海报上左手的手势被称作叫什么（英文）？"
+    },
+    {
+        "id": "47",
+        "prompt": "有一张因为只要在知乎帖子中出现就会被关闭评论区而被周知的图片 那张图中的汽车是什么品牌？",
+        "answer": "奔驰",
+        "reference_steps": "c2uo09Sq9fCsv+Gl7c/I8eOq5c2jhs+t+cG6jvu13P+myKSkyJ63xcau1ZixwOuwn+6ozeatxawqUU+Gz82Qt+my1uHEweyC9duNqPeMxMW6+MOd3+Tc/cCH64/drtvK6uTWv6fS047bkMfU8efK6+rV3pHXuJfRtrs8cWury86r38Kuu/qm3cbF1c2q+/WrnMKt+cO3qOq24fip74akwKG3xc2t9pqx4My9if+tzMs=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一张因为只要在知乎帖子中出现就会被关闭评论区而被周知的图片 那张图中的汽车是什么品牌？",
+        "Question": "有一张因为只要在知乎帖子中出现就会被关闭评论区而被周知的图片 那张图中的汽车是什么品牌？"
+    },
+    {
+        "id": "48",
+        "prompt": "搭乘苏州轨道交通从长亭站能直达花桥地下站台吗？",
+        "answer": "不能",
+        "reference_steps": "c2ury86r38Kup/6owf7E6eWo/tWgmPSt3cq3l9+47e2o07Ol6YS5zNt6q6/jouLrx9XKq+LXoqyZaVNAhPr/xtnFrMOakOnqi9T2xfnNjPHAgdvWiuigUYDu1daCioGV7VIC1aKDhYmMyNaDh+OFhdyOiYSe0Lio3oamquTCSXtjp/HLx/Djscaau8PAsPvaEX+g2fK1mv642vSn84Wm+Lm09Pug5biy2+6zi9arw/luoZaqhdTZhO7JydTUoc6RnsPAicjxyfzfgOzjgdn5hMOjh+rR",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "搭乘苏州轨道交通从长亭站能直达花桥地下站台吗？",
+        "Question": "搭乘苏州轨道交通从长亭站能直达花桥地下站台吗？"
+    },
+    {
+        "id": "49",
+        "prompt": "有一个全球旗舰店被称为“博物馆”的品牌，在2025年5月初与一家中国度假酒店集团进行的品牌联名，这次联名的宣传片的艺术指导是谁？",
+        "answer": "杜可风",
+        "reference_steps": "c2up4uao78ius8Wm3c3E6/Kq8sejhdis7tpyxPzdtP/PtpjLtZXnq9vNq6X8osjXxtjZpMH+oJS3i8PFhtXJxP/vq8S8ncXuicb+xPz6gP3Jgujbis68gOX8aAMW0sSDhs2pAh0GV9aKmVTX/u7F4/LU8b3XoZfWjrfQ3/um9takxMCumtOoz8fFyOqoz8ihsMah69lYE2+288Wm5oKp/IW13Mmt87yz39yxjuyq8OmpzKkqV4fN4ZXNgqL76qCc2ITz6YbFuqzK0ZbL60GVwsbSzMGF2oveqPnI7Mzak6M=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一个全球旗舰店被称为“博物馆”的品牌，在2025年5月初与一家中国度假酒店集团进行的品牌联名，这次联名的宣传片的艺术指导是谁？",
+        "Question": "有一个全球旗舰店被称为“博物馆”的品牌，在2025年5月初与一家中国度假酒店集团进行的品牌联名，这次联名的宣传片的艺术指导是谁？"
+    },
+    {
+        "id": "50",
+        "prompt": "距离中国国家中心城市最近的7000米以上雪山是世界第几高峰？",
+        "answer": "41",
+        "reference_steps": "c2uo4Miq9fCtqNWkz/wXY3h/sv33xPXgsv3Yydr6tfTwWBJvtanDqf3Jq7zkoMPqyPLhqPL4ZcmBzYTA+5Xfm6Hd2KG7xYfq/4vWk6H51ZXf34fu44CF84L75gYIBVXK0tDXi4jQ2rnatsvU09fJ2tzZ1ZHUobbXh4g8cWuo4Miq9fCjlOWkzM/F4vmoz8iilfmj3dG2mNe3xcmn3LKkw6209Pt9fw==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "距离中国国家中心城市最近的7000米以上雪山是世界第几高峰？",
+        "Question": "距离中国国家中心城市最近的7000米以上雪山是世界第几高峰？"
+    },
+    {
+        "id": "51",
+        "prompt": "多伦多大学CO-OP BBA HBSc Double Degree双学位项目需要几个四个月的学期才能毕业？",
+        "answer": "14个",
+        "reference_steps": "c2uoytuo/dKtsNim4OPF6vuq2vyrnMKj9cW1lOOy0NwUck8nc3RwCC48LEwxZRwxRz0rKWkNCgNvM0EsIzNZaAUGKqag4WhXQIvXtqHgwCVzCgdSN42U+oLc8xHeluXK18FwUUFRDFdSX4en5YKW1GwCT9Wfo9yPu9Gx8aDL9az17LTXqaHE56ePxqz3z6Tioaj01KD2pEtkfmWozqCp9aFhfaXx5MX547ztgKrj6q/S2gUTh9nEhMXcxPrJrOmGnv76",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "多伦多大学CO-OP BBA HBSc Double Degree双学位项目需要几个四个月的学期才能毕业？",
+        "Question": "多伦多大学CO-OP BBA HBSc Double Degree双学位项目需要几个四个月的学期才能毕业？"
+    },
+    {
+        "id": "52",
+        "prompt": "请问在The Microphones的专辑The Glow, Pt.2中，其第一首歌曲《I Want To Blow》中的旋律在这张专辑的第几首中又一次出现了？",
+        "answer": "第20首 《My Warm Blood》",
+        "reference_steps": "c2uoytuo/dKtsNim4OPF6vuq2vyrnMKjxtm1lOO4/+Cl6rOp7bG50/Kg7LFed3axqMmo0tmn2p3JwfA=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "请问在The Microphones的专辑The Glow, Pt.2中，其第一首歌曲《I Want To Blow》中的旋律在这张专辑的第几首中又一次出现了？",
+        "Question": "请问在The Microphones的专辑The Glow, Pt.2中，其第一首歌曲《I Want To Blow》中的旋律在这张专辑的第几首中又一次出现了？"
+    },
+    {
+        "id": "53",
+        "prompt": "北京市2025年第一季度城镇居民人均可支配收入与农村居民人均可支配收入差值与上海市2025年第一季度城镇居民人均可支配收入与农村居民人均可支配收入差值的比值是多少？（精确到两位小数）",
+        "answer": "1.16",
+        "reference_steps": "c2uoytuo/dKtsNim4OPF6vuq2vxkxu3FsfHwyO/xt+vWtKnBurzQqP7oqKH7T2p6xcPZqPPiqpK6UVRdVkpUEXVle3YAnNrviNbfwvj/V0ZqV1hfUl0OUFRrUR8JBlYYVUwCARgEWg==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "北京市2025年第一季度城镇居民人均可支配收入与农村居民人均可支配收入差值与上海市2025年第一季度城镇居民人均可支配收入与农村居民人均可支配收入差值的比值是多少？（精确到两位小数）",
+        "Question": "北京市2025年第一季度城镇居民人均可支配收入与农村居民人均可支配收入差值与上海市2025年第一季度城镇居民人均可支配收入与农村居民人均可支配收入差值的比值是多少？（精确到两位小数）"
+    },
+    {
+        "id": "54",
+        "prompt": "影视飓风在2022年12月的视频中，Tim称其一般将哈苏自然色彩解决方案戏称为什么？",
+        "answer": "湖南长沙",
+        "reference_steps": "c2uoytuo/dKus9Ckx+jFwNyqxuVkxt7ZsfHwxfzhuOLHu4PSuoPefnF7fMXt8WlmxtPGfn6rypnH+eWGxvSQgtZfe2rI3+CC8uiAisKMx+FzgM/oh9W3h+3RhL6o0O2dKy1wY8uj1GdaQIe44o6C1oGr5diepDIBGNy+xKPQ06Dqx7vpsaH/w6Sn6az3767EvKj8wKDft6jF76Pzy8LBzg==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "影视飓风在2022年12月的视频中，Tim称其一般将哈苏自然色彩解决方案戏称为什么？",
+        "Question": "影视飓风在2022年12月的视频中，Tim称其一般将哈苏自然色彩解决方案戏称为什么？"
+    },
+    {
+        "id": "55",
+        "prompt": "在苏州，有一所江苏省重点学校的两个校区分别坐落在在一个湖两岸，并且恰好都在CBD旁，请问那个距离火车站只有一站地铁的校区如今叫什么？",
+        "answer": "苏州工业园区星海实验高级中学",
+        "reference_steps": "c6PH0K3xwbTbvKP19qSZ4K3A5aP4rKjm1qLmgqnb36D2zMbK9sbMxaXx6sTs7770garC9q7Uwcm84ojp7JX7maPt5KGN3mhXQIXhvqHZ5ZXP1YTp3YeG7oPC4taMl4Cxy4WKpsmMxtaBlYar5iVvJoCm4NervdG1u960+6H27q3g53Ktg8Sm4OPI5NWo8/esq8Gg4du0qcG2zMym04up7oa359iswYqy2dGwmM+p59Cr2Z7J8OCJ+/admOqw5OIqS0yCz82Ng96AyNa1xcCW29Lc+vqH14bdmMPLw8IT1o60hYeRyO6gheiditGshrGa0YWU0ZKvqvvNq/fcpsjPxfPzstqUttjCsfT+xtbasPDlxe/Oue/Nu4vZtJr3qPnkq43y",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在苏州，有一所江苏省重点学校的两个校区分别坐落在在一个湖两岸，并且恰好都在CBD旁，请问那个距离火车站只有一站地铁的校区如今叫什么？",
+        "Question": "在苏州，有一所江苏省重点学校的两个校区分别坐落在在一个湖两岸，并且恰好都在CBD旁，请问那个距离火车站只有一站地铁的校区如今叫什么？"
+    },
+    {
+        "id": "56",
+        "prompt": "截至2025年2月，从上海任意一个地铁站出发，有一个站点最多只需要换乘一次就能到达，请问这个站点是什么？",
+        "answer": "人民广场站",
+        "reference_steps": "c2uoytuo/dKuvPSkz//P78Sq3cqivt6h7s+0lfa1zPWowaGm6Z+4++6s1Z5ed3axqMmo0tmo2a7Fx/uI7NCdmd+x8cTH0/uC9OePht2C58lZVk+X3f/f5d+F2IvehfTI2tzWrJfTyao=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截至2025年2月，从上海任意一个地铁站出发，有一个站点最多只需要换乘一次就能到达，请问这个站点是什么？",
+        "Question": "截至2025年2月，从上海任意一个地铁站出发，有一个站点最多只需要换乘一次就能到达，请问这个站点是什么？"
+    },
+    {
+        "id": "57",
+        "prompt": "截至2025年4月 中国最高结构高度的楼是那一座？",
+        "answer": "天津高银金融117大厦",
+        "reference_steps": "c2uo4Miq9fCuhO2n4OTJ+NCmxvqtp9+tyMhjEXa19OKk3Ian24q4y/J7fhJhoOHgFKnSxK711si+54jF+ZfDhqPt83EZTkxQidLbJ3ZLg9PTgtXQh9CwhNDWhomV0NquhseU1aOShLuZxeaCUFYfV4OI1QTXpbDVjarQ3MGn6NCo+/SvmP50bHHH4vs=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截至2025年4月 中国最高结构高度的楼是那一座？",
+        "Question": "截至2025年4月 中国最高结构高度的楼是那一座？"
+    },
+    {
+        "id": "58",
+        "prompt": "日本上世纪中旬发生了一起轰动日本的纵火案，有一个日本知名作家还根据这个案件创作了一篇小说，请问这个纵火案发生在哪里",
+        "answer": "京都",
+        "reference_steps": "pNLu",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "日本上世纪中旬发生了一起轰动日本的纵火案，有一个日本知名作家还根据这个案件创作了一篇小说，请问这个纵火案发生在哪里",
+        "Question": "日本上世纪中旬发生了一起轰动日本的纵火案，有一个日本知名作家还根据这个案件创作了一篇小说，请问这个纵火案发生在哪里"
+    },
+    {
+        "id": "59",
+        "prompt": "日本户外品牌Snow Peak有一个几何图形logo，Snow Peak官方解释其为什么图案？",
+        "answer": "雪花",
+        "reference_steps": "pNLu",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "日本户外品牌Snow Peak有一个几何图形logo，Snow Peak官方解释其为什么图案？",
+        "Question": "日本户外品牌Snow Peak有一个几何图形logo，Snow Peak官方解释其为什么图案？"
+    },
+    {
+        "id": "60",
+        "prompt": "2023-24赛季美国职业篮球联赛（简称NBA），常规赛犯规总数排名第2的球员所在球队，在赛季最后一场（包括附加赛、季后赛）中对战双方的最终比分之差为多少?",
+        "answer": "7分",
+        "reference_steps": "c2tupOnjpPzREnRzZ2wSZ6D6zqnpgwAHF6DqmKn31K30ycfL/Mj3yKfJ9cbB9b7asqrewa7i6RzH+eWJ8fGcsd+x8f7F3PiD9d+NjNCD89+R0oniy423+IDR3teumoqR+GkBHg3Tw53Wg/vX6+bI/s7W8bPYoafUrpbT2fipzcOk2c2knN9LZ28AtOnhsOLextLFs9XcxPnQtdn7tpj7urnUqcvpppXPquTYxeD3qsHWoKGshffXhcrDxdzorsqrkfr6i/HkxP3tjMnGjPntjNShaFFPQtexi4Cl04WvsMqP6tSpqYee9oOl5IKJ2wkJ35emBwkDrfnCpsX+cGJ+DX15aXbF284=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2023-24赛季美国职业篮球联赛（简称NBA），常规赛犯规总数排名第2的球员所在球队，在赛季最后一场（包括附加赛、季后赛）中对战双方的最终比分之差为多少?",
+        "Question": "2023-24赛季美国职业篮球联赛（简称NBA），常规赛犯规总数排名第2的球员所在球队，在赛季最后一场（包括附加赛、季后赛）中对战双方的最终比分之差为多少?"
+    },
+    {
+        "id": "61",
+        "prompt": "获得2024年度TGA最佳动作游戏，其第三回中在打颜色为白色的飞龙的场景，所取自现实建筑原型与另外哪几个建筑并称中国现存三大辽代寺院？",
+        "answer": "山西华严寺、辽宁奉国寺",
+        "reference_steps": "c2tucXh/dbfylKH78hVnEq7T1aj5k6vP/qHvvKfo6KPJ3cT56cPQxqjy38fx27D7vanM067n/82g6GtcT1KejOux8c3F4/yB1s6OpMSD7OO0/+WV+tXS69eIwa/Ri/zJ29nXio/d5aLak/g7UUgNismUhKyL36Gd0aOyp/70pOXcpNzUxdrKsPmatuzms/jhyN3as/LMx8r8tPzRt4/7WRR+bKXxwMXw7L7ghafd06z528mrz4XX8ZfWmqLs/6OHyIbdw4bzkKPr1ZX+/YXK6o2exY3f39WDloCC2Yqqksqu5teLl46N+IOc046U3tW8t9yKk9yZ+KbOwqDz/LfloaHk3aS77q3g7w==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "获得2024年度TGA最佳动作游戏，其第三回中在打颜色为白色的飞龙的场景，所取自现实建筑原型与另外哪几个建筑并称中国现存三大辽代寺院？",
+        "Question": "获得2024年度TGA最佳动作游戏，其第三回中在打颜色为白色的飞龙的场景，所取自现实建筑原型与另外哪几个建筑并称中国现存三大辽代寺院？"
+    },
+    {
+        "id": "62",
+        "prompt": "在2009年4月14日于起点中文网连载的小说中，一种白色火焰被一个人送给主角，此人所处的宗门总部坐落在哪个山脉？",
+        "answer": "中州南域的天星山脉",
+        "reference_steps": "c2tuptTlc2J7GaH44HXGz8B+YarThar/2K3nl6bS6aH5/8bX1Mft3an20Mjp+L/OpKr+w6Hh8ci4zILu65Tvt6D1/ayr9YXM14Dopk5XS1C2+cmX0+fSzdGF2pzXienK+t7buZ/T45jUqdHYyM7K49PU54fWuJPalJLfwsSq+cap+emjh9apxObH0cZFZmJkxsfFv8XTx8D7t8HxtpnKt5rqqPnzqLjLrMH8ydfPpMThoJ64aVVAQZThv67M4a24+Yf4/ov4kKH5zZTryITF/Y239YD+/daisYCJyoWrr8iF09u3pA==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在2009年4月14日于起点中文网连载的小说中，一种白色火焰被一个人送给主角，此人所处的宗门总部坐落在哪个山脉？",
+        "Question": "在2009年4月14日于起点中文网连载的小说中，一种白色火焰被一个人送给主角，此人所处的宗门总部坐落在哪个山脉？"
+    },
+    {
+        "id": "63",
+        "prompt": "语句\"如山间清爽的风 如古城温暖的光\"所出自的小说，被拍成电影，其中电影上映时间距离中国的第一枚奥运会赛艇金牌已经过去了多少天？",
+        "answer": "2965天",
+        "reference_steps": "c2tuq+fgpN3uAqHn1qSR4qHY4ar8panN66LIpKjz3mWk9KKk3IS108+v9omy386zusurycBso6eghubUifXTx93RrPSvkM3Ri9/IyNzsgc3ggvv2hti1isrVgbGy0d6jh96T17ewh7abydmnhfOhitGeiY+22ri5PAsYYqD+zKDi9bTfmaP9wqa6163f2anUranR46DvkaXq3mVzYhF3c8Xp+GFwbsbIzXhmGW+o2+yr2YbE28yL+s+cpsKw1fTEwOiD9sNiHmpFgcj+gPrPhMSWht3hhK+i0MCIi9yj1JGuioaoxei2i+G8he+9h6ie3KSaFgsGcn1upvH5YWprxtjJdHAXc67Y8KTKl6v7waLIpEtkfmWmyZioybRidXd8q4T9",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "语句\"如山间清爽的风 如古城温暖的光\"所出自的小说，被拍成电影，其中电影上映时间距离中国的第一枚奥运会赛艇金牌已经过去了多少天？",
+        "Question": "语句\"如山间清爽的风 如古城温暖的光\"所出自的小说，被拍成电影，其中电影上映时间距离中国的第一枚奥运会赛艇金牌已经过去了多少天？"
+    },
+    {
+        "id": "64",
+        "prompt": "2018年，王思聪收购的电子竞技俱乐部在一款游戏中赢得冠军，该游戏的S13主题曲MV中，画面开始出现在教室里的两个人是校友，请问是哪个学校的?",
+        "answer": "麻浦高中",
+        "reference_steps": "c2tucXh8ebfylKv92Kau2K7PyKTFiqjR4K3mjabK1KLV58Xsw8f70qfDzsTr9LztsKbN5K32/2dnaVNAQZXYjqL70w1nn/bQi874yu/7g/rTgd7Dh9Gqi+bJhou2B1UcW4aKhMW61daNuom604+25o6w9deqpt6Kjt++zRZ2ps7tpNTQKndvdKS8+6DE5KXfpKbEwqLJv6fo6KPJ3XNwYMTo96jr1sbP9xUCxPfjq931rLOCht3uhNbNxcDvrsqQnf7NiPbxyOrBjPffgvv2h9CehtjshomD3cK/hfuc2bKdh6iOxOG4hO+mJgNXFdWjtX5TXVxESHFgY6z15bbxmqLZ+6ia6K7686XvuKr9+6LIpKfw8aDO2Q==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2018年，王思聪收购的电子竞技俱乐部在一款游戏中赢得冠军，该游戏的S13主题曲MV中，画面开始出现在教室里的两个人是校友，请问是哪个学校的?",
+        "Question": "2018年，王思聪收购的电子竞技俱乐部在一款游戏中赢得冠军，该游戏的S13主题曲MV中，画面开始出现在教室里的两个人是校友，请问是哪个学校的?"
+    },
+    {
+        "id": "65",
+        "prompt": "某学校在21世纪初由一所师范学校和一所教育学院等两个合并组建而成，最早追溯于80年代初创办，在近2~3年内从学院改名为大学，该学校坐落于一个省会城市，前总理李克强曾去过。这个学校叫什么名字？",
+        "answer": "合肥大学",
+        "reference_steps": "c2tuptjFqdDuxeDmseyGttTnZ3x0Eqv84qLGkaTA2K3D98jAx8XAxKTt6cX547vUoarexKHM4Mi1+ons05fUhq7M66eg+Yf15ovqiKHd7Zjf5oTfxY6aw4Dx6tSBg4KW54aIisW07tW7vWsDTEYfUlQChImFCAnUqrHZ/smo7uuo/d2tqf2k8MzFw8Sp0cOhsMat1OC3jee5yeenyZSkw6209Pus3qi8x/2xhOir4e9EdgAAUVFfVJfAlHZlr9ioS1KD+caHkciD+P624OqX39Lc4t6G8rfRrM/I8+/WjprR+Y7VrdrW8uDE2f7U5LvUiazXvone7Pqr08Clw/eujeKozeM=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "某学校在21世纪初由一所师范学校和一所教育学院等两个合并组建而成，最早追溯于80年代初创办，在近2~3年内从学院改名为大学，该学校坐落于一个省会城市，前总理李克强曾去过。这个学校叫什么名字？",
+        "Question": "某学校在21世纪初由一所师范学校和一所教育学院等两个合并组建而成，最早追溯于80年代初创办，在近2~3年内从学院改名为大学，该学校坐落于一个省会城市，前总理李克强曾去过。这个学校叫什么名字？"
+    },
+    {
+        "id": "66",
+        "prompt": "有一种美食，起源于中国南北朝时期，分为两大流派，可以裹饼吃、也可以蘸糖吃，这个美食是什么？",
+        "answer": "北京烤鸭",
+        "reference_steps": "c2tupsTapejnx8flvfmNu/34s/bUxPTLsv3/xdrttcjWt6zWtbzNqtb/qLzLT2p6AKrC26306cmjx4jWzJfBmK/yyKO6/If17YXbuKL57JTrwYbV7oeG7oHZ4tafuIO1zISnmMqZ1daevYe984KV4oGz2NelpdGvlNCz86ryz67H+LfXiKzM46Sv5aHq6aj8qqH52qD2maTX8KLI1cfC98no4abAycfP073IiKv2xqDT58Gc74f635bBqqLS6aKAwYr034X1jKfl5Jno4Ybh/46nw4Pp9NmoqICg/4WukcKI7taDq4m81YOi1I+U3dW8jtCHgdCV3aLa66fx2rfEhqD51KaH3q7X+qn0pqnM0aD3nabK1KLC9sn5/sfK4qnR9sTsz7/Nnaj92qDt2sm0y47S7Zf2g6HR1q2l3Yrh6IrOtKPx+ZPT5w==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一种美食，起源于中国南北朝时期，分为两大流派，可以裹饼吃、也可以蘸糖吃，这个美食是什么？",
+        "Question": "有一种美食，起源于中国南北朝时期，分为两大流派，可以裹饼吃、也可以蘸糖吃，这个美食是什么？"
+    },
+    {
+        "id": "67",
+        "prompt": "一个位于南美洲的国家，最流行的体育运动项目是棒球，足球在这个国家较不盛行，从未踢进世界杯决赛圈，举办过美洲国家杯，请问这个国家在足球方面，明星球员曾效力于德甲，请问是谁？",
+        "answer": "胡安・阿朗戈",
+        "reference_steps": "c2tupej0p9/lxsvOvP6QvPTDvfPdxPbvs97vxe/mtt3ut4fVtqbVq9DXqKvdT2p6AKv1wq/S78aYwYnR+prPk6DFyqCY7oXw4oX1gqHj1pjm/oTu62IJTEWExaXds+DK8v3Vu6TR/pvbm9LW8uXL9N/Y/JLehbTUrYfQ182rydOp+9yunvOmwPPHycypzcKiuNGixsa3sdm2yOqp0YGk/amzz/qg1p+y2c+yqMc=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "一个位于南美洲的国家，最流行的体育运动项目是棒球，足球在这个国家较不盛行，从未踢进世界杯决赛圈，举办过美洲国家杯，请问这个国家在足球方面，明星球员曾效力于德甲，请问是谁？",
+        "Question": "一个位于南美洲的国家，最流行的体育运动项目是棒球，足球在这个国家较不盛行，从未踢进世界杯决赛圈，举办过美洲国家杯，请问这个国家在足球方面，明星球员曾效力于德甲，请问是谁？"
+    },
+    {
+        "id": "68",
+        "prompt": "有一种化学现象，有一位英国人发现，当光照射溶液时会出现一道光路；还有一种生物方面的实验，最终发现了豌豆花的颜色不一样。请问两个发现相差的年份是多少",
+        "answer": "4年",
+        "reference_steps": "c2tupsTbpP/tx8rxvPCBtdDgsfTFyPD7s/XGxtTYtf/VvZzNtLThpMr4q7vpotH9x9/IqeTooICWhNvIhs3Jw8TurfyhkNzbi9P8yf7rRUFrU1hShtGOh+rwhb+IP1cDQ4Snr8q9y9WllIiswIG35oOf/9mbtd6qmdyb3aDw9K391br6rKzw0qe90az18anqvqfv2qrurKT9z6D/5cXxx8XM5GF4dhZhZb3tlKrB3aHv7cqa5Yb12Zf8k6/786K2/2hWQEOMleCN5fW0/tma1PULWlNYTwAAA1AQV4aKhA==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一种化学现象，有一位英国人发现，当光照射溶液时会出现一道光路；还有一种生物方面的实验，最终发现了豌豆花的颜色不一样。请问两个发现相差的年份是多少",
+        "Question": "有一种化学现象，有一位英国人发现，当光照射溶液时会出现一道光路；还有一种生物方面的实验，最终发现了豌豆花的颜色不一样。请问两个发现相差的年份是多少"
+    },
+    {
+        "id": "69",
+        "prompt": "2025年前5个月，中国电影票房已累计的金额（只算整数/单位：亿元），相较篮球运动员勒布朗詹姆斯的第六份合同（按当前汇率1 美元≈7.0 人民币元），是其多少倍（保留2位小数）",
+        "answer": "38倍",
+        "reference_steps": "c2tup/DgpMn2x9D0sfyRtO3ns8T7Enhzsv/txcTTODE1IlN7fA8+KTY6YEM3MS56QyAjY3t+dxsPU1RBUERWYRUBAHdsQVMdNCQ4Vz03FzcADBQkJBxgUFBRVwAOGxZFFw5fOh8aQtScg4ah4Y6S8oO7ydWgod25pNyOwaPS1KDk+LfspqLX+6aM/63K+Kj/navV3qDCrK7synak65Rwt5rvq//Hq6XXT2t6AH5uqPPxopCuhuTth/7wxfrGrM2tntPiie3vwvjtVFC02++X5uvY6+1WTAEY0d+XhdOi1ZW1h7awwt24hOuPhcimhoqX3YCIFg4Wpv/xps3OpejxxvTQsfmhsMjNX39qAHxzYIblF3xjaGtxYs/928XQwa71xw==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2025年前5个月，中国电影票房已累计的金额（只算整数/单位：亿元），相较篮球运动员勒布朗詹姆斯的第六份合同（按当前汇率1 美元≈7.0 人民币元），是其多少倍（保留2位小数）",
+        "Question": "2025年前5个月，中国电影票房已累计的金额（只算整数/单位：亿元），相较篮球运动员勒布朗詹姆斯的第六份合同（按当前汇率1 美元≈7.0 人民币元），是其多少倍（保留2位小数）"
+    },
+    {
+        "id": "70",
+        "prompt": "《全校通报》是国内某男子组合发布的一首原创歌曲，该男子组合所属公司，旗下的另一个五人男子组合的微博官方账号，于2025年4月20日发布的最后一条帖子里，最后一张图片是谁的照片？",
+        "answer": "苏新皓",
+        "reference_steps": "c2tupdjRpubpw8TLscSItejuvMzexsTgtcXZxtn/td78t6bEtrP6qPnjqbTjoPXEx/TKqdnGoKGxhtnthuj9xcnKrMy7ns/piPjawvj+b0J9RYfR44+OwI3Ox9asgoCA84SItMik6tW6rYSA/IG35oO0zdW+gdeOrTMFbGWo09Sq9fCjj+Gk0e3F3PCpwtugmMWizMG0qcG2zMymxpek/rC398Ws3qix/O6xqOuo2uSr1oTE2+GK2diejOGw2czC+P6B1PeMl/6H5e20/+Waxenc0+eO3qoyAUsNi9SA2JCYirSAxc6Uhd2ph/a5hKyZ3Iac07Ssp/z9psf9psjPxerZsteZu/zpsMPzz/LJs/zkxsjutc3xYBBzZsXp+HWv0qhmdb7DharB3az2xsm654fy4ZfprqPtyaK92Yfd+IbFvavZ/npmS0GU6tbf6tWJzZTdjfPIzvPVrK3R8r3XleHU3sbI+djW6LfUgI7amb/Tyu6h/8Sr7sauj/2mzf/F6e6ozPKjh9+g3uG0tuy06v+m24mp6Yu09/yqzqI=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "《全校通报》是国内某男子组合发布的一首原创歌曲，该男子组合所属公司，旗下的另一个五人男子组合的微博官方账号，于2025年4月20日发布的最后一条帖子里，最后一张图片是谁的照片？",
+        "Question": "《全校通报》是国内某男子组合发布的一首原创歌曲，该男子组合所属公司，旗下的另一个五人男子组合的微博官方账号，于2025年4月20日发布的最后一条帖子里，最后一张图片是谁的照片？"
+    },
+    {
+        "id": "71",
+        "prompt": "“玉带林中挂，金簪雪里埋”出自我国某一部文学作品，该作品的原作者所处朝代中，有一位被多位导演应用原型至影视作品的皇帝，该皇帝的审美近年来在网络上被网友多次调侃，他的第二位皇后生育了几个孩子？",
+        "answer": "3个",
+        "reference_steps": "c2tupevNpubpxcvlvO63u+fCt8zYx8DMs/30xt/HtP3stKzDvJzcpcbYqZD+rMP+ycjCqdbFp669hubUifXTxP3br8yxnfnYi/DCyfzljPP7g/f1hsWchtj9h6K52tm2aVEdEMuX4tSHj4mex4C75YOcx9SMpd2ht96sxqHz36DNxLb0gaLA+66c367AxanLtqjM1qD2pKfMzaH68c/9yCpjYmGv3ryz8fq8j+qo0NSq/o3H+eWL8tidmMex9MnH4uWA1v6Aj++A2OO32P2X7fff/O6ExqvemcTI2ffUpIXQ2L3WkNDZxeDI68He3as7DRYS06Wep+HUp/Dnpv7txdTJstyBt/P5stbAxPT/scz7ycbcv/nNu6Dbu5/XrsHVq471oubayO3lpObRormlgeHzhuj9xcLWrvCAn8/+h+PhwvjpgPj3g/ffi8efht/bhbiR0v+phuaE1JCniomYydqMjdq2aFMfQdaSud+GlNGZ56LUxK313LXRpKPt+KWa36zy2Kvep6vV2K3oi6Xr7ar93sX45cbA0Kb97MXx/L/Av6fM/q30w8unw4XWy5fUiaL42aeg+g==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "“玉带林中挂，金簪雪里埋”出自我国某一部文学作品，该作品的原作者所处朝代中，有一位被多位导演应用原型至影视作品的皇帝，该皇帝的审美近年来在网络上被网友多次调侃，他的第二位皇后生育了几个孩子？",
+        "Question": "“玉带林中挂，金簪雪里埋”出自我国某一部文学作品，该作品的原作者所处朝代中，有一位被多位导演应用原型至影视作品的皇帝，该皇帝的审美近年来在网络上被网友多次调侃，他的第二位皇后生育了几个孩子？"
+    },
+    {
+        "id": "72",
+        "prompt": "开创了中国浪漫主义文学的作品，它的创始人与中国的某一个传统节日相关，该节日相关的传统食物制作所需的最重要的粮食，2023年在我国产量是多少？（精确到万位）",
+        "answer": "295万吨",
+        "reference_steps": "c2tupevNpubpwsTdsf2gtsDUsfbCxPbos97vxvT6tvnqtpj6t5nZqtfOq43yosLQxPLSqdrPp669hfnBhcn5xP7dpvi7clBLToXLraPRx5j8wIXP/42p44L75tSwroCK6IeJisuszduDrI6N+WweTEbX8azWjZramZzS+P+pyuGo096us+6l7OvE7+io7tOsqsyjweC1u/m11fau7rtLZw5wqtHVqZT2rffxyMXMqt7rorWYhuTdhuj9xPv1rv+/kcH6i/Dpwvjpgcv2gO74i8efi8b+h6K50+ytiv+z17ewhK+zxOa8isCshfy1hL6u366r2YW6p/z4p/bQptfswsTds/OOuuvQt8zZx9TBvsnRx9Tkt+jau6DItqj0qtfkoZzPT216AKntzK7658aPxoXT/ZXwiaXV1XYQSlGA19eNseyD7eG2/tyV+ezc4t6F2JbRsurP4/7cjLY+VB0TyNG3ismIhPOBhJ2m3oqM0ZiYp83+p/DKpe/Gw8TDXqWf8q7O+qrZhaj/xqLvsaTN0Kr9yEg1J1Ajdm5mOVcjazs8SSEvLighIk9PTQIBDF0dRTM0ICgPT1ZXW1VRAywRCBw=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "开创了中国浪漫主义文学的作品，它的创始人与中国的某一个传统节日相关，该节日相关的传统食物制作所需的最重要的粮食，2023年在我国产量是多少？（精确到万位）",
+        "Question": "开创了中国浪漫主义文学的作品，它的创始人与中国的某一个传统节日相关，该节日相关的传统食物制作所需的最重要的粮食，2023年在我国产量是多少？（精确到万位）"
+    },
+    {
+        "id": "73",
+        "prompt": "“人生若只如初见，何事秋风悲画扇。”是一位中国古代的著名词人的经典之作，该词人的姓氏源自某一民族的一个旧姓氏，据说该旧姓氏在历史上的第二位皇后创造了一种头型，是什么？",
+        "answer": "大拉翅",
+        "reference_steps": "c2tupevNpubpwsTdsPuatNzQvcfhxcHvs+PQxcnNuOLAvZzNt53FqPvCqYffrPvaxs38q931o6engeHzhuj9xPrJocSll97+ZFFGDaL1+Zfnx4ndxoyH/o3h59SfpoOd7IWJoMWzyNeJo4eu8oKV4oCB8Namtt+ostyl6KH26a7a5rfss6v9z0sTfWip9syjlOyt+eC0t+a199akzoil64211/yswKaxyuqwmMWry/Op36rHz82K2/6dncqy08PF6OyD9syAncWK2etZUU9Shcu6hdHDip6d0d+XhOqa1aWvi7OTyvu1ive6h/a8hL+g3Ka51bm0",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "“人生若只如初见，何事秋风悲画扇。”是一位中国古代的著名词人的经典之作，该词人的姓氏源自某一民族的一个旧姓氏，据说该旧姓氏在历史上的第二位皇后创造了一种头型，是什么？",
+        "Question": "“人生若只如初见，何事秋风悲画扇。”是一位中国古代的著名词人的经典之作，该词人的姓氏源自某一民族的一个旧姓氏，据说该旧姓氏在历史上的第二位皇后创造了一种头型，是什么？"
+    },
+    {
+        "id": "74",
+        "prompt": "芒果卫视热播的综艺《再见爱人4》里面的一位观察员，是来自台湾的记者，她的其中一位前任男友是国内有着跨时代意义的“天王”歌手，该歌手2005年11月发表了一部专辑，该专辑的第一主打曲的歌词第二小节，内容里的大衣是什么颜色的？",
+        "answer": "黑色",
+        "reference_steps": "c2tupdjRpubpyM7Tst+8tPPzvcX+w87Ps8PfyObRt83wtpr7Z8PQx6Xx48jzx737v6rf1K316cm654XRwJT4j6jpxaGo3ITzw4b6oabl+ZXc1YfL3YCU0o3h59O4qIO1zIajlsik2dajpY6N+WwfTEbXwrDWjZramZze5cer7Neo0MqsusCj1N3F9+Go28eijcKj386woNy12cimxpek3Ku31sWt9JqzzPG8muSq9/Sh+bUqUE9Oh+Llx/P3oeuFns/piOrjyNjNguvrgNvmhf+Mi/LVi7a00Oq8i8Kb17ewhougxd+ghfyphcqdhYix3YCJ0LClpN78pvH7qMbKxerbsuystdP9uvDfKnprdqPxoKbk8q3u98bs38bL/qbTysb5ybD7raDywKz388u8y4bCzZbDrKLlxqyq+ovi4ofTiKbl+Zb8/onTwIq6/4HZ2NS9hoy5zYucvcWL+duSoYSf+IKQ74mN+joEFxjUqZzQy/um9NWq5+mjj+Gk+tvE7sWpycysn9+izMG7gt242fek65ak24S22uyv1o+x1f6xne2r4vCoyr7F69GJ+/aboNuz5t/I2cGH7v6LrcY=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "芒果卫视热播的综艺《再见爱人4》里面的一位观察员，是来自台湾的记者，她的其中一位前任男友是国内有着跨时代意义的“天王”歌手，该歌手2005年11月发表了一部专辑，该专辑的第一主打曲的歌词第二小节，内容里的大衣是什么颜色的？",
+        "Question": "芒果卫视热播的综艺《再见爱人4》里面的一位观察员，是来自台湾的记者，她的其中一位前任男友是国内有着跨时代意义的“天王”歌手，该歌手2005年11月发表了一部专辑，该专辑的第一主打曲的歌词第二小节，内容里的大衣是什么颜色的？"
+    },
+    {
+        "id": "75",
+        "prompt": "开心麻花团队的喜剧电影《夏洛特烦恼》中男主人公“夏洛”在梦里和一位前辈在1998年共同演唱了一首经典歌曲，该前辈以现实生活中一位歌手为原型，该歌手参与录制了一档“拍灯转身”的综艺，淘汰了一位以“男生女嗓”著称的男选手，该歌手是因为更喜欢谁而淘汰了这位“男生女嗓”的男歌手？",
+        "answer": "李维",
+        "reference_steps": "c2tupej0p9/lxcHyvdWOu+fCt8zYEXd8bqDrlKPQzafBzsXI3sjuxKPJ08LU2b3RkarewK/y0cu00oPu/JfliKDB/KGdyYHl5IbMoqLR/pfa3IbxxY673obh6dWAmIKA+IqzucWT8Nu6n46N+WwfTEbXwrDWjZramZze5demyvqo3fqsrvSk+t/Hx9ep4fegmOOizMG3rt61zs6l6Jqm2om/8NpDfQ50o/jtxsLgrsnSo6WthODBic/VyP3+q8S9nf7NhszNyf7fgvn6gO7whuKaitrmhau83e+vhPid2aq4ioyoxcC9hcu2i+a4joy93IGE3623p+vUp/DNp/PoyM7Ds9qOvPTUX3hqAKfFzK3tp6PQzKLV5cfVzMX1/6Te3cLU2LrUvKff267p9cyg/ob05ZXwmaDX8KG80IrKy4vir6P+y5nU6YTc+YyH74Hb2NaxnI2K8Yu6gsKI+TkGA0HX8vrK1sTV2b7VgZzWi7TTx/an1+arwfWvmv6m3ejFw8Spwvqju/ag0/a1usW06syp/I6n04e449yg7Li7+dSxntiry/Op6LrGwumN4fA=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "开心麻花团队的喜剧电影《夏洛特烦恼》中男主人公“夏洛”在梦里和一位前辈在1998年共同演唱了一首经典歌曲，该前辈以现实生活中一位歌手为原型，该歌手参与录制了一档“拍灯转身”的综艺，淘汰了一位以“男生女嗓”著称的男选手，该歌手是因为更喜欢谁而淘汰了这位“男生女嗓”的男歌手？",
+        "Question": "开心麻花团队的喜剧电影《夏洛特烦恼》中男主人公“夏洛”在梦里和一位前辈在1998年共同演唱了一首经典歌曲，该前辈以现实生活中一位歌手为原型，该歌手参与录制了一档“拍灯转身”的综艺，淘汰了一位以“男生女嗓”著称的男选手，该歌手是因为更喜欢谁而淘汰了这位“男生女嗓”的男歌手？"
+    },
+    {
+        "id": "76",
+        "prompt": "金庸笔下一位眉心有红痣的女角色，所处的派系有一座与之同名的山峰，该山上的雌性猴子眼周的颜色是什么？",
+        "answer": "粉红色",
+        "reference_steps": "c2tupevNpubpycPQsfuYtOTbsfTPxsfFsNnbxfHfuOr1tpr7tKn5o/3Fq5nio/jtxsLgrsnSorKpht7th+7wx/33rtODmuL4ifnsyv7agsTxgOnWhf6Xi/Hgh5+i0d+XhOqa35GvaAEdDYeS4oGZwI6exNSLg9+7n9+/wqDqx675/7X4m6HJw66cyEJ8e2yig86i4ue6j+S25Pum4Zukw6y13Mys/5Gx9uiwmMWp1s2pyZrFzvGJxv+ekfy69d8qTExFiPP0yvDHjd/2gsb/hNmBi/7thLGf0vmRhvKb2Y+oirqBzuGz",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "金庸笔下一位眉心有红痣的女角色，所处的派系有一座与之同名的山峰，该山上的雌性猴子眼周的颜色是什么？",
+        "Question": "金庸笔下一位眉心有红痣的女角色，所处的派系有一座与之同名的山峰，该山上的雌性猴子眼周的颜色是什么？"
+    },
+    {
+        "id": "77",
+        "prompt": "截止2020年12月，获得Dota2 TI国际邀请赛冠军的中国选手获奖年龄差距最大和最小值之间的差值是多少？",
+        "answer": "7",
+        "reference_steps": "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",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截止2020年12月，获得Dota2 TI国际邀请赛冠军的中国选手获奖年龄差距最大和最小值之间的差值是多少？",
+        "Question": "截止2020年12月，获得Dota2 TI国际邀请赛冠军的中国选手获奖年龄差距最大和最小值之间的差值是多少？"
+    },
+    {
+        "id": "78",
+        "prompt": "长江流域里的省级行政单位（不包括直辖市），省内地级市（包含自治州）平均海拔相差最大的是哪个省？",
+        "answer": "四川省",
+        "reference_steps": "c6bOwq7S5Lrkgq3U66eRzK761Knbv6nf0qLOoaTV4Xyl6oqu76y1wMSs3ou92Mqylfip0Mitxa/Ixt6G9v2Rp+2z+//F9NiG7uKNtt+A0u20+eCR4+ne2PSE76bfqeTO4+LVibvR7qTUseDS4ufL2/DU7KfWpbnRtrjQ89qm5veq3dOooMWk+sjF7fWoyc2noM+j59q6q863zMSu7qik3Zu51eWu1ZS8+86xmM2h8NOnwqPF2eeL2fCcssux8c7GzdWA1uGHkc1vV5PT5IT65Y+B5oP+x9mXl4C954eLmsqo49a1qISh5oKVyIOt0deLnt2KtN6sxqD38K3QxrT+l6LKwK6c363D0KrPjKbC/KPgm6TnzqLs2ypysKDRpcHTpp/To/fAyPHNqdLVoJm9hP3vh8fOxszBrPOOnv7li8fPwvjpguTLgMzui/+1hPLuiraS09eWhtSt1ZSHh660y9SGhO25UVMBUdWjtd66ptC1/6D2wa308rfWp3FxZKaR4A==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "长江流域里的省级行政单位（不包括直辖市），省内地级市（包含自治州）平均海拔相差最大的是哪个省？",
+        "Question": "长江流域里的省级行政单位（不包括直辖市），省内地级市（包含自治州）平均海拔相差最大的是哪个省？"
+    },
+    {
+        "id": "79",
+        "prompt": "尼米兹级航母第一艘下水到最后一艘下水期间，在任的美国总统有海军服役经历的平均服役时间是多少年？\n备注1：服役时间不计算预备役\n备注2：服役时间按结束减去开始年份计算，例如1942到1943算作1年",
+        "answer": "4.5年",
+        "reference_steps": "c6bOwq7d3bX/gjMoPyjP78Sq5fCjkf2g0/y1mua2yOqm/oyl66C4xdms/pyz9Ouxpfarw/5/fBkSTFFbTkNKxP/er/SUl97piP/oyNTrgcjTjejqh9GuhNfah4m70d6thuyEAh0EVBwCHU4BW4KV6YCB1ToD2riz0KmqpfHspPbDpMn2xsT6s/q/tvj+vc3Ixtnzv9Lmz/3ctcDwtLzIZMTtwa71wsTvy73knKrLx6/T+8uo04Te7pfBo6PuyU4Tm+LkiPP0yvDHg+zegNzLhNO1h+vnjY200OCbh9ue1piDh7WoGYWM74mR7o+o59W3ognWi7TZ/smp6vKox8l6xPnMXnXD08mn++2jjtmjysi3nfi16fGoy7Cu77q1/P2sy6uy2OZgxfb6o/XCooivhOjXVZfAlKjpxaGt2YXs11SNlPCK2fy75eCX2+ve2eVSh4iMP1DO4+LbnozTzKTWlNLU/+HI29LY+KDehaIGGAzT+/E=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "尼米兹级航母第一艘下水到最后一艘下水期间，在任的美国总统有海军服役经历的平均服役时间是多少年？\n备注1：服役时间不计算预备役\n备注2：服役时间按结束减去开始年份计算，例如1942到1943算作1年",
+        "Question": "尼米兹级航母第一艘下水到最后一艘下水期间，在任的美国总统有海军服役经历的平均服役时间是多少年？\n备注1：服役时间不计算预备役\n备注2：服役时间按结束减去开始年份计算，例如1942到1943算作1年"
+    },
+    {
+        "id": "80",
+        "prompt": "截止2024年12月，大疆发布的起飞重量最大的AIR系列无人机飞完半程马拉松，电池还剩多少毫安时的电能？\n注1：假设水平无风，最低耗能的情况为最大航速的60%飞行\n注2：耗电可以按最长飞行时间换算",
+        "answer": "1624",
+        "reference_steps": "c6bOwq7d3bX/gjMoPyjP78SpxdCjlOwkPze3pfC2zMyk14io0Ihkqu33raDWo8TUxevppPz5rI2+iubjiPX2x93Rr9yPOQsXTlAbJ3aG5fG1xuGV18rc/uWExpbehdHI2tDak7Pcw7/arf7U2MDJ2twDUNeAihfVkavZ/smm7emq78WuntOowf7H6OWn3easqOSs1tq2mPthYmt3Pw8yWROzzMCh4IGz68+8oNio2/+h+aISUk9fQRkUAGh1eHYOTkJYTlJeGnGCwuJzWEFAWwVTDG9VgbG50/WxhNeR17mBhIKTy+GKhfKYi+G+hYiLDQoFAN+Z6aDgyq7a91h+w8TAstG8tPzts9DEydv6v+bMyODcttL3u7f1ZxW1xMeg3L9ec7vUoabsyK3y9cag9Ib61Jv+r6Pt82QUSlVTThtIH3xKUUVzWEFAVV4LjdntQtextYGWxouMqMi9y9eLplAHU1DLzc3Uz7nXro4=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截止2024年12月，大疆发布的起飞重量最大的AIR系列无人机飞完半程马拉松，电池还剩多少毫安时的电能？\n注1：假设水平无风，最低耗能的情况为最大航速的60%飞行\n注2：耗电可以按最长飞行时间换算",
+        "Question": "截止2024年12月，大疆发布的起飞重量最大的AIR系列无人机飞完半程马拉松，电池还剩多少毫安时的电能？\n注1：假设水平无风，最低耗能的情况为最大航速的60%飞行\n注2：耗电可以按最长飞行时间换算"
+    },
+    {
+        "id": "81",
+        "prompt": "A是一家于2021年创办的科技公司，非常注重AI安全，其核心成员为来自对手公司B的前员工。其重要投资者中有一家为科技巨头，代表产品包括一款市场覆盖率极高的操作系统，这家投资者是？",
+        "answer": "Google",
+        "reference_steps": "c2tupej0p9/lxcHyvdWOu+fCt8zYEn53Z6DrlKPQzafBzmEIto7ZqcThrKDJquTYxd7Wqf7ro7OFi+bEhN3Axs7erMGMne3dgd/ky8rNguDVgObIIo2/zoDu2tegmiRDFwtBX11dAdyPoYSe24Ck6YO0zdW+gd6qmXZGJysPCqvNw2BlAAUvIClSPDgmNqvepKfC2630oafaxa301sjB1sXcyafC4sTu37H9jKbOxqrOxGlPDAYCBJH5oaLQwK2g54ft9YXiuKfl5Jf95YnT9ICP5oP9ztaVvIat4VAdEMWL+deLrYecx4mR7oCR2Na8l923hdCi7K3hzqrN3bfzoqHd7qmG1a/Uw6vKp6jb16z5uKbK1KPS38T8z8fj96by0cLU2L7aiKjeyqzJ/8qY2YTA6Jf0s6Dm8qOb543Z4oXIlKLoy5js/IXK44yBwY3AytWCkoC+4oSSnsia+NuMtISf1IOozoO+2dSJg39dWV5aJ6bOwQ==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "A是一家于2021年创办的科技公司，非常注重AI安全，其核心成员为来自对手公司B的前员工。其重要投资者中有一家为科技巨头，代表产品包括一款市场覆盖率极高的操作系统，这家投资者是？",
+        "Question": "A是一家于2021年创办的科技公司，非常注重AI安全，其核心成员为来自对手公司B的前员工。其重要投资者中有一家为科技巨头，代表产品包括一款市场覆盖率极高的操作系统，这家投资者是？"
+    },
+    {
+        "id": "82",
+        "prompt": "国家A是位于欧洲心脏地带的工业强国，2025年5月国家A与东南亚国家B签署防务协议扩大双边合作。国家B的国果是什么？",
+        "answer": "芒果",
+        "reference_steps": "c2tupdfoqf3pxujmsvWStvfMvcjLxdL1s/30xdrttev3vZzNurTRqe/Tq5fxoeDOxfP0qdLzpq6iUU9Oh9LAxsr7r86FkeP2BhccXTdfSl8kEhZcGQlVAAQOTFJXWEteBExdVVpHTUBWTE5CFglfG1QBUwUBDAkHGw8FdXZ+cHltc2J5FaH44HTGz8Cq6/uhu/Oh7su6r/O17s6k/J6m/p644uOg1pKxz/mxrcCm4ueozIfFx8aL7v6Rnv6w2czExf6G7uFbA2SN6sK22+qXzdbd+OGD4q3drtjL/f/RsLDS+pzbp/PX/PrO4uQ=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "国家A是位于欧洲心脏地带的工业强国，2025年5月国家A与东南亚国家B签署防务协议扩大双边合作。国家B的国果是什么？",
+        "Question": "国家A是位于欧洲心脏地带的工业强国，2025年5月国家A与东南亚国家B签署防务协议扩大双边合作。国家B的国果是什么？"
+    },
+    {
+        "id": "83",
+        "prompt": "19世纪，一位法国作家出版的作品，因 “伤风败俗” 引发司法诉讼。这位作家几乎不吃肉，日常多以鸡蛋、蔬菜、一块奶酪、水果和一杯冷巧克力为食。这种在饮食上不讲究、用餐简单的习惯与那本“伤风败俗”作品中的哪个主要人物最为相似？",
+        "answer": "夏尔・包法利",
+        "reference_steps": "c2tucnB4dnKumfCu6M3G4N2qzvGgndKg+PO1hs629fmn2byk1Jq3xcmqzqqxyd2yk9qrxOCr4YXE2duN4fmWnMuw0uQAmuL5it/MxOfrjcT2gd7lgeinQoDd99S3pICi24WApcWb69udkYKx4FQDQoKIx9SJlN+ostySzaD+16vO+rfHpaLywaSo+q3T/aXhjqfmyaHqqqXpz6H538jv4cf5+q71wsTsyLDru6fvwKDOzMiryo7S7ZXtiK7x2aOO+Ifo+4Dor6De85XD5oTc746O6Y3w09axro2v6oyPvMi85dW9pISU1I+oyIKJ69mkht+ostCqy6ryz63Ywrbzq6D51KWY+aDE7KravKH52qDEvaTV2aLS5MnG38fKyKjM3M/oyb/Qlqrewq32z8ua6YbzwJreqaTVy6yf4YXC44bHlK3G+pfazIXK7o6284Do9tK4tIKD44a+pcuq/tu2lIar5oGk24Gz2N+NtdyKuN6QzaPr/67G3bXloKHMwaa616Hq+6Xnv6r89qPRj6fM2aH50sXvycfKyKbS9sTo+bztq6rqyKrOxw==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "19世纪，一位法国作家出版的作品，因 “伤风败俗” 引发司法诉讼。这位作家几乎不吃肉，日常多以鸡蛋、蔬菜、一块奶酪、水果和一杯冷巧克力为食。这种在饮食上不讲究、用餐简单的习惯与那本“伤风败俗”作品中的哪个主要人物最为相似？",
+        "Question": "19世纪，一位法国作家出版的作品，因 “伤风败俗” 引发司法诉讼。这位作家几乎不吃肉，日常多以鸡蛋、蔬菜、一块奶酪、水果和一杯冷巧克力为食。这种在饮食上不讲究、用餐简单的习惯与那本“伤风败俗”作品中的哪个主要人物最为相似？"
+    },
+    {
+        "id": "84",
+        "prompt": "19世纪，一位法国作家出版的作品，因 “伤风败俗” 引发司法诉讼。这部作品先后被改编为多个电影版本。1991 年版本中女主演坚持含着什么味道的道具毒药扮演女主角服毒自杀的戏份？",
+        "answer": "苦杏仁味",
+        "reference_steps": "c2tucnB4dnKumfCu6M3G4N2qzvGgndKg+PO1hs629fmn2byk1Jq3xcmqzqqxyd2yk9qrxOCr4YXE2duN4fmWnMuw0uQAmuL5it/MxOfrjcT2gd7lgeinQoDd99S3pICi24WApcWb69udkYKx4FQDQlcIWAHUgIzVoozT//Sp2cyo5OGvmP+n6NXGy+er6casrsCt4ti3kNWz0/6l6K6l7om1/NWqzqKw/9awnear/N2r2LTG7+CL8dmevcd1q8S8kOnDiP7nyf/kgOHgh+HvQ4+g5ozg8dS9goOC8Yu+n8KI6tads4io54C6woCe89+NsNeOut2N56Dfy6/D8bXDkaHRw6e83q7gx6TDiqjY1qPFlqbMz6DvzMfb18fH16nC6Mj17b7XpaDywK/FyMix54T+75fotaLF2aCY9YTIzIDorw==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "19世纪，一位法国作家出版的作品，因 “伤风败俗” 引发司法诉讼。这部作品先后被改编为多个电影版本。1991 年版本中女主演坚持含着什么味道的道具毒药扮演女主角服毒自杀的戏份？",
+        "Question": "19世纪，一位法国作家出版的作品，因 “伤风败俗” 引发司法诉讼。这部作品先后被改编为多个电影版本。1991 年版本中女主演坚持含着什么味道的道具毒药扮演女主角服毒自杀的戏份？"
+    },
+    {
+        "id": "85",
+        "prompt": "一位美国女歌手目前共获得 14 座格莱美奖。从在她出生的州的第一大城市最有名的大学出发，前往第二大城市最有名的大学，从时间和经济成本考虑，汽车和火车哪一个更具性价比？",
+        "answer": "汽车",
+        "reference_steps": "c2tup/DNpe/Gx/rPsdqdtu38s+HIxsfOsd78xcjdtcDwuq72tp7HbHB9bsXu4r70nKfA/a7wy8uF9YLu45rGuaPoxKKN9ITs5YXwgqLW1ZXY90yU9cffyuSExprfvNzO4+EBHg3S0YPWpvPU5dzK9vnV277Ul4bXkqzQ8dCr8/Sp+8iul9qi1MPF/faq4tKjjOKh7sW3hOa1z8uk6qKny4+4+Pis0a63xdqzjOOq9sWr4YnF/O+L2fCfuOiwxf3F/duAzsKLrcZWS1C70diX/Obc/uWH/rjdpejK+efWlIrRz5XVtc7UzNjIxvPX0qXUiYTWjKPT5uKr7u6uwdCurP2k0fjF8+mpycyivMegxsi1usW19OKk/4any4+1weChzrCx2uKygsqn1s+r4YnFzseN4fBNDmeyyO/IxcSNz++Phc+K2eq33u+a19Hf/euG+LXftM7F3sXUm7TQ26vWsPHW483F38DU6YDUtYHXs4DT4uSp2cxtAD8/UiUqdKmd9a/kzKP4rKnB4KDCrqfd8qH4ysXE5cTr2qXz6snU373jharL+6zHyMue44TjwJr5sKLK86KC/Yv/6IbMiqHIw5PT54bzyICHxI3A7taQvoKXxUMLEMiE7dWkm0EAWkbI6uDY86/Subo43o2PpdHmrPTXpvfjxP/2sd2Ic3l7dav6rqvA1aDakGFhZHVhtZ7PtqXTqPjCp7fgptjWFWFuqvjzrZOGi8Dihtryz/vPrOKinvz5huTCyPPUgMzTjdzUjNS2ht7vh5+G0MG4hdCm1Z2IhompyMWWh8uLh+GLhL+g1oS+0IuJpdjOYwFtbHJ8FmQWdKSy32gGdWFkF35lAWW1jci5+92o0r+k1oy4++6h76y97O67nMOryeGp7aXH2cdOUkJKDnR1oc+RkeXpgd/kxNjljdbSRVRShti1hPLXQgYY0O2rivGs1ZqSh7yAzuGzh8CvhPitiLC437Ob0oCup9jeqt3yqNLfxerjvPyGvPTDsMPrxPXLvvHrxd7et9/Fup3ntIvJqPjRq73EZRUxRy4sOTpuooOphuTChP3Bx93RrOqCkN/Di+vYyMjcgPXqgMHTjNS2heHXh6G20OOghuq+1ZO0h56Vy8GQjdqhise9hpi63oKUFg4Wp/XBpd/7YWB6AKHJ0qiyzKvP16TwmanR/qruuqTs0K389Mfb18bi9an998XGybDrp6f546H6/MuExIbUx5fliGdgfGTHxuyA6+CNpfRFXUBzgt/8hu25htzqi6aM2tm2ivaM2a2gh52RxdyXhfyphcOZhYuG3KSaFgEWpfvAps3OpNr7AHN0dKae3a3K1qj9q6fS4qbSond+ttLhuo77t5veqtb/p7fgrefMxtfhq/LBo5uuhen+h+7Vz/vZr/WdkN/Dh+DVy9zKg+vngOTFheidht7WhJ6s0v+piuO61qadgbOx",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "一位美国女歌手目前共获得 14 座格莱美奖。从在她出生的州的第一大城市最有名的大学出发，前往第二大城市最有名的大学，从时间和经济成本考虑，汽车和火车哪一个更具性价比？",
+        "Question": "一位美国女歌手目前共获得 14 座格莱美奖。从在她出生的州的第一大城市最有名的大学出发，前往第二大城市最有名的大学，从时间和经济成本考虑，汽车和火车哪一个更具性价比？"
+    },
+    {
+        "id": "86",
+        "prompt": "在美国南方文学中，一种食物常作为 “乡愁” 和 “家庭温暖” 的象征 。小说《油炸绿番茄》中，主角通过制作这种食物传递情感。这种食物在一个国家的变体内馅更轻盈，常加入酸奶或奶油奶酪，饼底用消化饼干混合玉米片，增加脆感。这个国家最高的山海拔是多少？单位：米。",
+        "answer": "3776",
+        "reference_steps": "c2tupPbDpMn2xcnWsteZtd7IsOHixPboufnext7wtu/ttJT/tpjoqPzVqpjup9jIxPbvqs3Pp669Q4T87VKboNuw5/LFws+D1sqOt9KH5e1zgvv2i9mbh9vgQtK4t4Cd7IuchM606NWBlIaz2oGW3YGky9i9vduyvd2O76ryz6z1+rrssq3Bzqmf1K3H46j5vKja9qP4jKfk7qH98snBwcbTyafN0c/oyb7csKv29qHx28iuxoXVwpvgpaDPzaOaxYfdyIDor3ZLRZXc8ofB9o2G7YL1/ta6jICQ0oagvcKI7tWkiIetzoCywoCbzdaFh920s9CQx6PV96Dw+rXQqKv92KSY663F9anBhafA7qD3lqfYxqDk5Mbz6sX1+qjM5M/oybHxnKr02a7a7ciW64Ti95vcnKLs+6KXz4f15oTmpKPU1pfa4o7O742Y/IDrwtm8s4Op/ICzsh4aQtWkiIetzoCx4o+a+dervd2Dh9+u7aDhz63u6rf6kav92KeV5K7EwWx3F3lzdqLjk6LQ0g==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在美国南方文学中，一种食物常作为 “乡愁” 和 “家庭温暖” 的象征 。小说《油炸绿番茄》中，主角通过制作这种食物传递情感。这种食物在一个国家的变体内馅更轻盈，常加入酸奶或奶油奶酪，饼底用消化饼干混合玉米片，增加脆感。这个国家最高的山海拔是多少？单位：米。",
+        "Question": "在美国南方文学中，一种食物常作为 “乡愁” 和 “家庭温暖” 的象征 。小说《油炸绿番茄》中，主角通过制作这种食物传递情感。这种食物在一个国家的变体内馅更轻盈，常加入酸奶或奶油奶酪，饼底用消化饼干混合玉米片，增加脆感。这个国家最高的山海拔是多少？单位：米。"
+    },
+    {
+        "id": "87",
+        "prompt": "2025年初，一家人工智能公司以较低的成本实现了较高的性能，在推理任务上与 OpenAI 的 O1 相当，但训练成本仅为不到 600 万美元，同时开源模型。这个模型的训练时结合了多种算法和工程的优化技巧。其中一种算法曾帮助AlphaGo 击败李世石。OpenAI在采用这种算法训练Dota 2 AI “Five”时消耗了多少个 GPU 集群 ×10 个月的算力？",
+        "answer": "256",
+        "reference_steps": "c2tucXh/dLfylKHJya6c3wwqMDwXRSsus8D+xc7otP7kup7Ct53eq9vNqKjEo8T4xeHQq8f+oZSmi9/tiNnhx93Rr8SHkOHYgd/kyNjNg/77gvH0h9OBh+/Ahomy0d2jQyxDVUN1KxPUt+URLVcNhf2JhI2i1oS+0oSwquvjpPPOp9rbxtjtsPqlt/D1sfTJxcb1dnNiEGG06MKm7K6k1qO/8M2s3qyy0u6xnM+o9tmo7Y/F/eqN4fBLDme99t3EwMiDxsKNs8+C//S7y8yV2Ovc9dOG2aLdpe3J2eXWlLfTxb7Ug/bX0fPI8OrU1pXWkbPVrL3S/t2rz96ry9Kul+Oi1MPF1v6r7eGgmM6i8ci1jta249CnyZ6k6461xugIIlA8JB87AKrJ96H64Mi97YXW95Xmk6TVy6yf4YXC44TGuqLW8JTr34TO2Y229IDMxNWBlYKD9IWApc604AAdDS5BBwhsK4Otydm2vt+mntGJ26Lpzq3x+7fHtqHs8qWZ86/hwqr3tabr+6LpowU/JCRhYAAAGgCyzN0PJ1Yxp9jJxtj4qv/Gra63h9voU0dPxP//aQNwLUKM9eWPk+BFpudiVUGW28Lc/u2G+LXfm/LI6fjQsK8=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2025年初，一家人工智能公司以较低的成本实现了较高的性能，在推理任务上与 OpenAI 的 O1 相当，但训练成本仅为不到 600 万美元，同时开源模型。这个模型的训练时结合了多种算法和工程的优化技巧。其中一种算法曾帮助AlphaGo 击败李世石。OpenAI在采用这种算法训练Dota 2 AI “Five”时消耗了多少个 GPU 集群 ×10 个月的算力？",
+        "Question": "2025年初，一家人工智能公司以较低的成本实现了较高的性能，在推理任务上与 OpenAI 的 O1 相当，但训练成本仅为不到 600 万美元，同时开源模型。这个模型的训练时结合了多种算法和工程的优化技巧。其中一种算法曾帮助AlphaGo 击败李世石。OpenAI在采用这种算法训练Dota 2 AI “Five”时消耗了多少个 GPU 集群 ×10 个月的算力？"
+    },
+    {
+        "id": "88",
+        "prompt": "一位美国女歌手目前共获得 14 座格莱美奖。她销量最高的专辑以一个年份命名。在这个年份，迪士尼上映了一部动画，成为首部票房破亿的动画长片。5年后的6月，迪士尼上映了另一部动画。影片以其深刻的主题、精彩的剧情和动人的音乐，成为迪士尼动画的巅峰之作之一，在全球范围内取得了巨大的成功。这部动画是？",
+        "answer": "《狮子王》",
+        "reference_steps": "c2tucmZtperLxPnMs/+uttPysOn3xuPJsMzZx9r+tczMt6Xwu67nqf/ebhFmZb3uh6nu8KHA9Mme7YTL95H5oq/q0KCd9YTI4oXhpqL9yiQyHA0dEUhpFQwHFtK4t1cDQzdSSUFbENqnrYi27YCx4o+a+dervdyKpdGI06PW7KvNy2NyGH2i1MrP78Smwcytp8Gt4MC6n8ZwYXFtZRR5fxFhemGs8oC3xdpnDm9/dXF3oJeUjN3iic3TxeT+rPScnNrviPvIyf7jgcjTjOLahuKShfHagbGy0NWihN291JeOi4KPzuG6ht6nhP6Rjoy937Gh0ZmCYqfO363I7bbzm6HO/qmj7q/i3Kn6pajO+aPHsaPQzWWmyKSk9re4++6qzqK86v2zqcioxNmq/ZTJxfeH4tqehe+zwfvH2NaB1NyPt8CA79i08dqb9tfd6+KO3r3dieXI88zXiqvc3ZnWjsrU0toNgOath6a20bGI0527p8D6ocjQYbTclqD696Kg0XxhdX19GHduY3hjGXhks8XDYxl4ZwC19fVpeACy2dB0EXpuqt7rqpKsgOHkhvnXxerFrsqrm+Luitviy9zFiszfjc/Ai9eKht/nh4G30u6Dhs6j2JOvh4SHyP2Zhd2ih+i3hYq33p+/0Z67pebmqtLzpMLFz/jNst2gtPPHs8TUydv6sv3ox8r+tejRta7KtLrUqtTMqprfptjWxfL/q8DJoZWFhuTYh8XIxc/urt6knNreh8HwzsTkgsLtgNzbhPK+h+zGhLK90Pehhumb1JeOham3xP6Cht+9jdq9h7ih3YCI3oacp+blpvjxpNjjx9D6s9uktv/KsP/0xPfOsvjOxPjbtP3BvZzNtrz4qcThqbDXrdTXxdT6qc/LoKG2ht/5hcj/xfD9rOCHn/jhiOv4yM76hvDR",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "一位美国女歌手目前共获得 14 座格莱美奖。她销量最高的专辑以一个年份命名。在这个年份，迪士尼上映了一部动画，成为首部票房破亿的动画长片。5年后的6月，迪士尼上映了另一部动画。影片以其深刻的主题、精彩的剧情和动人的音乐，成为迪士尼动画的巅峰之作之一，在全球范围内取得了巨大的成功。这部动画是？",
+        "Question": "一位美国女歌手目前共获得 14 座格莱美奖。她销量最高的专辑以一个年份命名。在这个年份，迪士尼上映了一部动画，成为首部票房破亿的动画长片。5年后的6月，迪士尼上映了另一部动画。影片以其深刻的主题、精彩的剧情和动人的音乐，成为迪士尼动画的巅峰之作之一，在全球范围内取得了巨大的成功。这部动画是？"
+    },
+    {
+        "id": "89",
+        "prompt": "截止2025年5月18日，OpenAI发布的codex-1 agent支持的最大上下文tokens数为多少？",
+        "answer": "192k",
+        "reference_steps": "KjE6Mzt3bn0kUCEvNSgOMCcieiUqRCs9eSw8VDM/NDAiO04mfkM/KCQxYQ==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截止2025年5月18日，OpenAI发布的codex-1 agent支持的最大上下文tokens数为多少？",
+        "Question": "截止2025年5月18日，OpenAI发布的codex-1 agent支持的最大上下文tokens数为多少？"
+    },
+    {
+        "id": "90",
+        "prompt": "有一位截至2025年赢得了9座格莱美奖并且获得了32次格莱美奖提名的美国女歌手，她参加了2025年的met gala吗？",
+        "answer": "没有",
+        "reference_steps": "KjE6Mzt3bn08VzNvMzNBPiU2ey8rTWEkJDE7UzUjfycoPkwoNg01JS0gPUh7d21lF3t/",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "有一位截至2025年赢得了9座格莱美奖并且获得了32次格莱美奖提名的美国女歌手，她参加了2025年的met gala吗？",
+        "Question": "有一位截至2025年赢得了9座格莱美奖并且获得了32次格莱美奖提名的美国女歌手，她参加了2025年的met gala吗？"
+    },
+    {
+        "id": "91",
+        "prompt": "2024年全年共有多少位新晋学术人员加入了香港大学？",
+        "answer": "123",
+        "reference_steps": "KjE6Mzt3bn0qQyUlMSxJMCwqIykoTz4oMysmDik7JWspOQ8vNld9LSIoKkU5LDt5UzsvKi9jdx4SV04=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2024年全年共有多少位新晋学术人员加入了香港大学？",
+        "Question": "2024年全年共有多少位新晋学术人员加入了香港大学？"
+    },
+    {
+        "id": "92",
+        "prompt": "在2020年夏季奥运会中有一对参与同一届奥运国家游泳队的姐妹，请问这对姐妹的姐姐和妹妹年龄差多少周？（精确到个位）",
+        "answer": "103周",
+        "reference_steps": "KjE6Mzt3bn0xSGo2PSpJIy0rPC1qTzwieTI7Syh/dQB0dxh2dmEWaQR+axhtYBptBQx8aQt5YGsVRlgqREo8BQJtbAYUXVshSyZdCAZVQElnRUEaFxxKEV9OTUtQGxJECApDVUldAx1cXwYeFQ9GC0kUJAUUAXoXDgoTB3NregtoeGVuZXNkbHgFEXFqFn5hYnlgE3B3GQV1aABkFxhkERR1dQVsCxVxB2hxGXs=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在2020年夏季奥运会中有一对参与同一届奥运国家游泳队的姐妹，请问这对姐妹的姐姐和妹妹年龄差多少周？（精确到个位）",
+        "Question": "在2020年夏季奥运会中有一对参与同一届奥运国家游泳队的姐妹，请问这对姐妹的姐姐和妹妹年龄差多少周？（精确到个位）"
+    },
+    {
+        "id": "93",
+        "prompt": "创作歌曲Où est ma tête ?的乐队名中出现了一种鸡尾酒的名字，这种鸡尾酒最经典的制作配方需要用到哪几种酒？",
+        "answer": "伦敦金酒和干味美思（苦艾酒、威末酒、香艾酒）",
+        "reference_steps": "KjE6Mzt3bn0xSGo2PSpJIy0rPC1qTzwieTI7Syh/dQB4d2F3dmETaQR8a2FgYBltBQp7aQt+YGxj",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "创作歌曲Où est ma tête ?的乐队名中出现了一种鸡尾酒的名字，这种鸡尾酒最经典的制作配方需要用到哪几种酒？",
+        "Question": "创作歌曲Où est ma tête ?的乐队名中出现了一种鸡尾酒的名字，这种鸡尾酒最经典的制作配方需要用到哪几种酒？"
+    },
+    {
+        "id": "94",
+        "prompt": "IShowSpeed在YouTube上发布过一条关于物理挑战的播放量过亿的短视频（截至2025年5月18日），请问视频是在哪拍摄的？",
+        "answer": "长沙",
+        "reference_steps": "KjE6Mzt3bn0lRTMyeiJIOiYuey8rTWE2OSY7QS03NGpwYhBxYxFmdW57fhJhdWxkGGB6dHh2cBcRW08GFR8VAGd1ITBUCBFfQUwfWjNLHB8mERQQBkZZDQhOEVlXRxFeTFcAZQBFEkNYY1cF",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "IShowSpeed在YouTube上发布过一条关于物理挑战的播放量过亿的短视频（截至2025年5月18日），请问视频是在哪拍摄的？",
+        "Question": "IShowSpeed在YouTube上发布过一条关于物理挑战的播放量过亿的短视频（截至2025年5月18日），请问视频是在哪拍摄的？"
+    },
+    {
+        "id": "95",
+        "prompt": "在目前支持巴黎世家转售计划（Re-sell Program)的国家中（截至2025年5月18日），唯一一个没有参加过一战的国家是什么时候建国的？",
+        "answer": "1965年8月9日",
+        "reference_steps": "KjE6Mzt3bn0xSGo2PSpJIy0rPC1qTzwieTI7Syh/dQB3dxl3dmJgaQR8axgVYBlkBQp7aXAKYG8RQ0FOQVIRVDMlOn4PVxUSGU0KTCgACxM6BAYTTQtVD0oEDBxNRkpfBk5AVUFYT0NBQgZDAws=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "在目前支持巴黎世家转售计划（Re-sell Program)的国家中（截至2025年5月18日），唯一一个没有参加过一战的国家是什么时候建国的？",
+        "Question": "在目前支持巴黎世家转售计划（Re-sell Program)的国家中（截至2025年5月18日），唯一一个没有参加过一战的国家是什么时候建国的？"
+    },
+    {
+        "id": "96",
+        "prompt": "第55个加入阿尔忒斯协定的国家的南部沿海地区是什么气候？",
+        "answer": "温带海洋性气候",
+        "reference_steps": "KjE6Mzt3bn0xSGo2PSpJIy0rPC1qTzwieTI7Syh/dQB3dxgCdmERaQR8a2FsYGBlA2oLemwMdQsZV0QrVFdBEGJscGQAWAoRGhMbF2tKEgckSw8TEAkUBQoXTV9dQhYAEQZfVUxHBxxdTBJQTxFIDgVeDFVCFFZdRE5XO2gvMGV4dCYjDSogIChPPWU7OmE3SSkreyQgVCQ9OTZsM0MiPFI0P24=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "第55个加入阿尔忒斯协定的国家的南部沿海地区是什么气候？",
+        "Question": "第55个加入阿尔忒斯协定的国家的南部沿海地区是什么气候？"
+    },
+    {
+        "id": "97",
+        "prompt": "截至2025年5月16日，上交所科创板自开板以来，在所有注册生效状态且申报历时小于等于180天的公司中，多少家注册地是在中国沿海地区的？",
+        "answer": "86家",
+        "reference_steps": "c2tupdjRpubpz/jbsPmqt/Lrs8XExcHUvuTexPnatf3Du4H4tLv+qe/oqIDsoNL8xs/Po/XULVpUExJUTl0OVzB7OjdFVgEKA00LQ2sJDAMnDA8VTBpfDAAWA10XXBVCTGkBHg3S6KDWovfUzMfLwt7W64bXubndiqPQ8e2rxcSq1c2ttcxLZ28AtcLcsMPSAKvKwaLCpqfH9aPdzcPB0sbL+Kff/sbD4L7Iv0V6Ymmm64/HzfaB3eifu/Oz3/TG78eD8vxFyMvyguDVg/bXhfSlaFBPQteypoCi9YWohMui0tWkiIet/UvI7fHW8bbXrp3UqqbT9eur88ep+9ytqNKp1MTH/sGr78J1GH6g8uy1usW11emk3ZhLZQ5wqsvaq6/CoeDeyPD+qczioKGYhdLGhPT1xdvlrNmgclVLToX4saPRx5TryITp3o6I3YPU1daktIGW3oW7psW059SomYmP9IOV4IGr5di9ut2pgtaK2E92rPTXpv7txdTJsPmNttPys/77xvvysdnTxPrtts3XuqDEtLvkpP/fq5jWrdTXxdT6q9PKoKuMhu7Wh+fJycDaoeqBnvfVgd/yFXKAy8Y=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "截至2025年5月16日，上交所科创板自开板以来，在所有注册生效状态且申报历时小于等于180天的公司中，多少家注册地是在中国沿海地区的？",
+        "Question": "截至2025年5月16日，上交所科创板自开板以来，在所有注册生效状态且申报历时小于等于180天的公司中，多少家注册地是在中国沿海地区的？"
+    },
+    {
+        "id": "98",
+        "prompt": "2025年5月，上午8-10点从饶阳站出发，最终到北京的列车有几辆？",
+        "answer": "3辆",
+        "reference_steps": "c2tupdjRpubpyeH3vdmTtsD/sMDTxPTpsd/WyPz2tungWBJvc8bZ8qTO9Mnx87HMk6jl1azB1MadxYf515vulKLJ4XwNSVKB1+iBuvCC//S23Neazdjc99U=",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "2025年5月，上午8-10点从饶阳站出发，最终到北京的列车有几辆？",
+        "Question": "2025年5月，上午8-10点从饶阳站出发，最终到北京的列车有几辆？"
+    },
+    {
+        "id": "99",
+        "prompt": "《乐队的夏天》各季 top5 乐队中一共有多少名女性成员？",
+        "answer": "6名",
+        "reference_steps": "c2tupOnjpPzRxP3RseWvtdTGsfTNxePmXHd8AKbx/qDvyMbu3MX972E9IVBhZbztsKbW06zeyMuN9GtdT1KfsNuy/ebG1+2D+syMlNSM/e+17fGX8vDV3umH64/dst/I5tXXiIDRx4DVrcbX6vbI8/47a9edldyKttyb4ary2aD49LTphqv93Ke246Ds8anpsKH536bSoabP46LTws/928XY9qbF4s/ozFKzjOOq9sWr6I3P3/uL6eqftci69czJ/++Az/KBttGA5v+0/+WU/uvf6syO3rgy0smBh9u61YCXjY+pyOeehNOah8iwjoy5d1dEVxl+JyQ8N6fxyLHLoaHE4qSl5a7v6avKu6H53qD8qanu7qL61sXR28/sxaLJz8jh3r7lt6r+8K3038Gc64TA6JrHnqDuzaGw8I3Z5w==",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "《乐队的夏天》各季 top5 乐队中一共有多少名女性成员？",
+        "Question": "《乐队的夏天》各季 top5 乐队中一共有多少名女性成员？"
+    },
+    {
+        "id": "100",
+        "prompt": "《真探》第一季里有一句类似“useless spin”的台词出现在第几集？",
+        "answer": "第三集",
+        "reference_steps": "c2tupdjRpubpxczxvP65teb6sMP0yOHIbGVwZSAzOGUyJkktP0U0bCMmKll0Njd0Qyo8OCgnKw5UCwAaQQYRRT51PiFSHUIIARENDTANBB5zEQkXQxtPD0UOBBFMXQBEEUNGQkpRER8TTA1dQhJFB0ZEElVdXEtBFkpGKysgKiYqbXI/STYkMGFNOiYreWwnTyIpPzY7Ty9wPyNhNkUyOlI1bCAnKgA9IjY7Ui4gLyxgZyQSTUGJwNyRjuOz0evH1M6A6cOBtsJv",
+        "canary": "BENCHMARK DATA SHOULD NEVER APPEAR AS PLAIN TEXT ONLINE. canary GUID xbench-DeepSearch:beab185e-cc30-4b33-a1bf-bf1a01982696",
+        "problem": "《真探》第一季里有一句类似“useless spin”的台词出现在第几集？",
+        "Question": "《真探》第一季里有一句类似“useless spin”的台词出现在第几集？"
+    }
+]

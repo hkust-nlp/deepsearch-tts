@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "Question": "What is the optimal ratio of omega-6 to omega-3 fatty acids in the diet to mitigate the deleterious effects of chronic hypoglycemia on the pancreatic beta-cell function, and how does this ratio interact with the presence of advanced glycosylation end-products (AGEs) in the diet to influence insulin sensitivity in individuals with impaired glucose tolerance?"
+    },
+    {
+        "id": 2,
+        "Question": "What are the implications of using a variable ratio schedule of reinforcement versus a fixed ratio schedule in a token economy system for individuals with developmental disabilities, specifically in terms of promoting adaptive behavior and reducing problem behavior?"
+    },
+    {
+        "id": 3,
+        "Question": "How can I effectively adapt dialectical behavior therapy (DBT) skills training to accommodate a client with co-occurring borderline personality disorder and high-functioning autism, given the unique challenges presented by the client's rigid thinking patterns and difficulty with group social interactions?"
+    },
+    {
+        "id": 4,
+        "Question": "How can we develop a framework to model the impact of epigenetic modifications on gene expression as a noisy communication channel, where the histone code and DNA methylation serve as the encoding mechanism, and the binding of transcription factors and RNA polymerase represent the decoding process, with a specific focus on applying techniques from sparse coding and compressive sensing to identify the most informative epigenetic marks?"
+    },
+    {
+        "id": 5,
+        "Question": "How might the discovery of controlled fire use among early Homo heidelbergensis populations in Africa around 400,000 years ago have influenced the evolution of their social structures, particularly in terms of cooperative foraging and food sharing practices, and what archaeological evidence might be used to test this hypothesis?"
+    },
+    {
+        "id": 6,
+        "Question": "What would be the most effective sampling strategy for detecting norovirus and rotavirus in treated wastewater effluent from a small-scale wastewater treatment plant serving a rural community with a high incidence of waterborne gastroenteritis, considering the variability in viral shedding patterns and the need for statistical power to inform public health interventions?"
+    },
+    {
+        "id": 7,
+        "Question": "How can I effectively integrate hands-on labs using virtual machines into my lesson plan on threat modeling and vulnerability assessment, while also ensuring that my students can replicate the exercises in a controlled environment that adheres to our institution's strict network segmentation and security policies?"
+    },
+    {
+        "id": 8,
+        "Question": "How can I effectively utilize storytelling techniques to convey the trade-offs between monolithic architecture and microservices architecture to non-technical stakeholders, while avoiding oversimplification and ensuring that the technical nuances are accurately represented?"
+    },
+    {
+        "id": 9,
+        "Question": "How can I effectively integrate the story of Romulus and Remus into a 4th-grade social studies curriculum that focuses on community building and civic responsibility, while also addressing the potential controversy surrounding the myth's themes of violence and fratricide?"
+    },
+    {
+        "id": 10,
+        "Question": "How can I effectively modify the Kodály method's solfege hand signs to accommodate students with limited fine motor skills or dexterity, while still maintaining the method's core benefits for developing inner hearing and sight-reading skills in my beginner piano students?"
+    },
+    {
+        "id": 11,
+        "Question": "How can I optimize the lattice structure of a 3D printed robotic node for maximum strength-to-weight ratio while minimizing the amount of support material required, considering the limitations of FDM printing and the need for integrated connectors for inter-robot communication and power transfer in a swarm robotics application?"
+    },
+    {
+        "id": 12,
+        "Question": "How can I effectively scaffold the teaching of counterclaims in IB extended essay introductions for students who struggle to differentiate between concession and refutation, particularly in the context of social science topics that often require nuanced acknowledgement of opposing viewpoints?"
+    },
+    {
+        "id": 13,
+        "Question": "How might the incorporation of sulfur-rich presolar grains into the early solar nebula have influenced the subsequent condensation of refractory elements, such as calcium and aluminum, and what implications does this have for our understanding of the isotopic heterogeneities observed in calcium-aluminum-rich inclusions (CAIs) from the Allende meteorite?"
+    },
+    {
+        "id": 14,
+        "Question": "How might the neural oscillatory patterns in the anterior cingulate cortex and insula during speech production differ between individuals with high versus low emotional expressivity when describing a past autobiographical event, and do these patterns interact with individual differences in the functional connectivity between the default mode network and the salience network?"
+    },
+    {
+        "id": 15,
+        "Question": "I recently upgraded to Rails 7 and Ruby 3.1, and now I'm encountering an error when trying to run tests with `rspec`. The error message states that the `net/smtp` file cannot be loaded. How can I resolve this issue?"
+    },
+    {
+        "id": 16,
+        "Question": "How can I effectively integrate the concept of exopaleontology, specifically the potential for fossilized evidence of extinct extraterrestrial life, into a middle school curriculum on astrobiology, while also incorporating storytelling techniques to engage students and encourage them to think creatively about the possibilities of life beyond Earth?"
+    },
+    {
+        "id": 17,
+        "Question": "How can I troubleshoot and resolve a permissions inheritance issue on a Windows Server 2019 file share, where a subset of users with the Domain Admins group membership are being denied access to a specific subfolder despite having full control permissions on the parent folder, and the issue only occurs when the users are accessing the share via a macOS client running High Sierra, while Windows clients are unaffected?"
+    },
+    {
+        "id": 18,
+        "Question": "What are the most effective strategies for maintaining the bioactive properties of camu camu berries during the freeze-drying process, considering the berries are sourced from the Amazon rainforest and must be transported to a manufacturing facility in the United States, and how can I ensure that the resulting powder meets the standards for inclusion in a USDA-certified organic and non-GMO product line?"
+    },
+    {
+        "id": 19,
+        "Question": "\"What's the most effective way to reconcile our legacy segmentation models from 2018 with the new digital-first consumer behaviors we're seeing in our Q3 data, particularly among the boomer demographic that's showing unexpected platform adoption?\""
+    },
+    {
+        "id": 20,
+        "Question": "How would a neo-Kantian approach to moral obligation account for the apparent tensions between the categorical imperative and the demands of care ethics in situations where the well-being of a specific individual (e.g. a family member or friend) is in conflict with a broader, universal moral principle?"
+    },
+    {
+        "id": 21,
+        "Question": "What are the specific ontogenetic shifts in the diet and feeding behavior of juvenile Lake Sturgeon (Acipenser fulvescens) in response to invasive Zebra Mussel (Dreissena polymorpha) colonization of their native spawning habitats in the Great Lakes, and how can these changes inform adaptive management strategies for conserving this endangered species?"
+    },
+    {
+        "id": 22,
+        "Question": "What are the possible implications of the recently discovered evidence of copper-tin alloying in the Naqada II Period on our understanding of the development of bronze metallurgy in ancient Egypt, and how might this challenge or support the prevailing theories on the transmission of metalworking technologies from the Near East to the Nile Valley during the Early Dynastic Period?"
+    },
+    {
+        "id": 23,
+        "Question": "What specific modifications to the hyoid apparatus and mandibular morphology would be necessary for a hypothetical, tetrapod-like descendant of Tiktaalik or Pederpes to achieve the same level of suction feeding efficiency as modern-day pipid frogs, given the existing fossil record of early tetrapod evolution?"
+    },
+    {
+        "id": 24,
+        "Question": "How can I effectively communicate the concept of epistasis in genetic research to a lay audience, particularly in relation to its implications for personalized medicine, without oversimplifying the complex interactions between multiple genetic variants and their impact on phenotypic expression?"
+    },
+    {
+        "id": 25,
+        "Question": "How does the introduction of parallel transmission techniques in modern MRI systems, particularly those utilizing multi-channel transmit coils, affect the spatial encoding and fidelity of the reconstructed images in the context of the Bloch-Siegert shift, and are there any historical antecedents in the work of Richard Ernst or Raymond Damadian that might have foreshadowed this development?"
+    },
+    {
+        "id": 26,
+        "Question": "What are the implications of the recent discovery of the Aedes aegypti mosquito's ability to transmit multiple strains of dengue fever in urban areas of Lagos, Nigeria, on the existing vector control strategies and how can public health officials in the region adapt their efforts to address this new challenge, particularly in the context of overlapping outbreaks of Lassa fever and yellow fever?"
+    },
+    {
+        "id": 27,
+        "Question": "What are the implications of the recent reclassification of the genus Polygonum to include the formerly distinct genus Persicaria on our current understanding of the phylogenetic relationships within the subfamily Polygonoideae, and how might this affect the interpretation of morphological and molecular data in future studies on the evolution of floral morphology in these lineages?"
+    },
+    {
+        "id": 28,
+        "Question": "How did the shift from the Qin's centralized, bureaucratic system to the Han's more decentralized, aristocratic governance structure influence the development of Confucianism as a state ideology, particularly in terms of the imperial court's relationship with the literati class and the role of the Classics in shaping moral and social norms during the Western Han period (206 BCE - 9 CE)?"
+    },
+    {
+        "id": 29,
+        "Question": "What are the potential cascading effects of the planned expansion of the Baku-Tbilisi-Ceyhan pipeline on the fragmented habitats of the critically endangered Asiatic cheetah in the southeastern foothills of the Greater Caucasus Mountains, particularly in terms of increased human-wildlife conflict and habitat degradation due to associated infrastructure development?"
+    },
+    {
+        "id": 30,
+        "Question": "How can I adapt the Easy Does It approach to fluency therapy to accommodate a client with co-occurring apraxia of speech, while also incorporating mindfulness-based strategies to reduce anxiety and increase self-awareness of speech patterns, specifically in a group treatment setting with children aged 8-12?"
+    }
+]
