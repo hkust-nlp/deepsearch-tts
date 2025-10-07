@@ -1,0 +1,23 @@
+# Large output files
+outputs/policy_results_*.json
+outputs/**/*.json
+outputs/**/*.metrics.json
+
+# API keys and secrets  
+.env
+.env.local
+*_api_key*
+*_secret*
+api_keys.txt
+credentials.json
+
+# Test scripts with potential keys (keep templates only)
+# test_*.sh
+
+# Other
+*.log
+*.tar.gz
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
