@@ -11,7 +11,8 @@ This repo contains the resources for the paper "Pushing Test-Time Scaling Limits
 In this work, we study both sequential and parallel test-time scaling of deep search agents, motivated by the intuition that verification in this setting is often much easier than generation. In experiments, we first show that sequential scaling methods, such as budget forcing, can be effective initially but eventually degrade performance when over-applied in
 agentic search. Due to asymmetric verification, however, we are able to achieve substantial improvements by allocating only a modest amount of compute to the verifier. 
 
-<img width="10761" height="6394" alt="Figure1-30_11_00" src="https://github.com/user-attachments/assets/5b668668-1557-43e6-8b49-73780a346667" />
+<img width="10761" height="6394" alt="Figure1-30_11_00" src="https://github.com/user-attachments/assets/04eef9da-186c-4364-a51b-669462ce5dd5" />
+
 
 
 # Quick Start
